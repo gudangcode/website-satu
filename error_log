@@ -1,0 +1,941 @@
+[26-Nov-2020 16:23:56 Asia/Jakarta] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; mastermedia has a deprecated constructor in /home/emea6153/public_html/_includes/classes/master_media_class.php on line 7
+[26-Nov-2020 16:23:56 Asia/Jakarta] PHP Warning:  include(/var/www/html/e-media/_includes/lib_adodb/adodb.inc.php): failed to open stream: No such file or directory in /home/emea6153/public_html/_includes/DB.class.php on line 5
+[26-Nov-2020 16:23:56 Asia/Jakarta] PHP Warning:  include(/var/www/html/e-media/_includes/lib_adodb/adodb.inc.php): failed to open stream: No such file or directory in /home/emea6153/public_html/_includes/DB.class.php on line 5
+[26-Nov-2020 16:23:56 Asia/Jakarta] PHP Warning:  include(): Failed opening '/var/www/html/e-media/_includes/lib_adodb/adodb.inc.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/emea6153/public_html/_includes/DB.class.php on line 5
+[26-Nov-2020 16:23:56 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function ADONewConnection() in /home/emea6153/public_html/_includes/DB.class.php:22
+Stack trace:
+#0 /home/emea6153/public_html/_includes/DB.class.php(16): db->_dbconn()
+#1 /home/emea6153/public_html/_includes/classes/master_media_class.php(11): db->__construct()
+#2 /home/emea6153/public_html/e-media/sharedservice.php(67): mastermedia->mastermedia()
+#3 /home/emea6153/public_html/index.php(329): include('/home/emea6153/...')
+#4 {main}
+  thrown in /home/emea6153/public_html/_includes/DB.class.php on line 22
+[26-Nov-2020 16:24:12 Asia/Jakarta] PHP Warning:  include(/var/www/html/e-media/_includes/lib_adodb/adodb.inc.php): failed to open stream: No such file or directory in /home/emea6153/public_html/_includes/DB.class.php on line 5
+[26-Nov-2020 16:24:12 Asia/Jakarta] PHP Warning:  include(/var/www/html/e-media/_includes/lib_adodb/adodb.inc.php): failed to open stream: No such file or directory in /home/emea6153/public_html/_includes/DB.class.php on line 5
+[26-Nov-2020 16:24:12 Asia/Jakarta] PHP Warning:  include(): Failed opening '/var/www/html/e-media/_includes/lib_adodb/adodb.inc.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/emea6153/public_html/_includes/DB.class.php on line 5
+[26-Nov-2020 16:24:12 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function ADONewConnection() in /home/emea6153/public_html/_includes/DB.class.php:22
+Stack trace:
+#0 /home/emea6153/public_html/_includes/DB.class.php(16): db->_dbconn()
+#1 /home/emea6153/public_html/_includes/classes/master_media_class.php(11): db->__construct()
+#2 /home/emea6153/public_html/e-media/sharedservice.php(67): mastermedia->mastermedia()
+#3 /home/emea6153/public_html/index.php(329): include('/home/emea6153/...')
+#4 {main}
+  thrown in /home/emea6153/public_html/_includes/DB.class.php on line 22
+[26-Nov-2020 16:24:13 Asia/Jakarta] PHP Warning:  include(/var/www/html/e-media/_includes/lib_adodb/adodb.inc.php): failed to open stream: No such file or directory in /home/emea6153/public_html/_includes/DB.class.php on line 5
+[26-Nov-2020 16:24:13 Asia/Jakarta] PHP Warning:  include(/var/www/html/e-media/_includes/lib_adodb/adodb.inc.php): failed to open stream: No such file or directory in /home/emea6153/public_html/_includes/DB.class.php on line 5
+[26-Nov-2020 16:24:13 Asia/Jakarta] PHP Warning:  include(): Failed opening '/var/www/html/e-media/_includes/lib_adodb/adodb.inc.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/emea6153/public_html/_includes/DB.class.php on line 5
+[26-Nov-2020 16:24:13 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function ADONewConnection() in /home/emea6153/public_html/_includes/DB.class.php:22
+Stack trace:
+#0 /home/emea6153/public_html/_includes/DB.class.php(16): db->_dbconn()
+#1 /home/emea6153/public_html/_includes/classes/master_media_class.php(11): db->__construct()
+#2 /home/emea6153/public_html/e-media/sharedservice.php(67): mastermedia->mastermedia()
+#3 /home/emea6153/public_html/index.php(329): include('/home/emea6153/...')
+#4 {main}
+  thrown in /home/emea6153/public_html/_includes/DB.class.php on line 22
+[26-Nov-2020 16:24:14 Asia/Jakarta] PHP Warning:  include(/var/www/html/e-media/_includes/lib_adodb/adodb.inc.php): failed to open stream: No such file or directory in /home/emea6153/public_html/_includes/DB.class.php on line 5
+[26-Nov-2020 16:24:14 Asia/Jakarta] PHP Warning:  include(/var/www/html/e-media/_includes/lib_adodb/adodb.inc.php): failed to open stream: No such file or directory in /home/emea6153/public_html/_includes/DB.class.php on line 5
+[26-Nov-2020 16:24:14 Asia/Jakarta] PHP Warning:  include(): Failed opening '/var/www/html/e-media/_includes/lib_adodb/adodb.inc.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/emea6153/public_html/_includes/DB.class.php on line 5
+[26-Nov-2020 16:24:14 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function ADONewConnection() in /home/emea6153/public_html/_includes/DB.class.php:22
+Stack trace:
+#0 /home/emea6153/public_html/_includes/DB.class.php(16): db->_dbconn()
+#1 /home/emea6153/public_html/_includes/classes/master_media_class.php(11): db->__construct()
+#2 /home/emea6153/public_html/e-media/sharedservice.php(67): mastermedia->mastermedia()
+#3 /home/emea6153/public_html/index.php(329): include('/home/emea6153/...')
+#4 {main}
+  thrown in /home/emea6153/public_html/_includes/DB.class.php on line 22
+[26-Nov-2020 16:24:15 Asia/Jakarta] PHP Warning:  include(/var/www/html/e-media/_includes/lib_adodb/adodb.inc.php): failed to open stream: No such file or directory in /home/emea6153/public_html/_includes/DB.class.php on line 5
+[26-Nov-2020 16:24:15 Asia/Jakarta] PHP Warning:  include(/var/www/html/e-media/_includes/lib_adodb/adodb.inc.php): failed to open stream: No such file or directory in /home/emea6153/public_html/_includes/DB.class.php on line 5
+[26-Nov-2020 16:24:15 Asia/Jakarta] PHP Warning:  include(): Failed opening '/var/www/html/e-media/_includes/lib_adodb/adodb.inc.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/emea6153/public_html/_includes/DB.class.php on line 5
+[26-Nov-2020 16:24:15 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function ADONewConnection() in /home/emea6153/public_html/_includes/DB.class.php:22
+Stack trace:
+#0 /home/emea6153/public_html/_includes/DB.class.php(16): db->_dbconn()
+#1 /home/emea6153/public_html/_includes/classes/master_media_class.php(11): db->__construct()
+#2 /home/emea6153/public_html/e-media/sharedservice.php(67): mastermedia->mastermedia()
+#3 /home/emea6153/public_html/index.php(329): include('/home/emea6153/...')
+#4 {main}
+  thrown in /home/emea6153/public_html/_includes/DB.class.php on line 22
+[26-Nov-2020 16:24:21 Asia/Jakarta] PHP Warning:  include(/var/www/html/e-media/_includes/lib_adodb/adodb.inc.php): failed to open stream: No such file or directory in /home/emea6153/public_html/_includes/DB.class.php on line 5
+[26-Nov-2020 16:24:21 Asia/Jakarta] PHP Warning:  include(/var/www/html/e-media/_includes/lib_adodb/adodb.inc.php): failed to open stream: No such file or directory in /home/emea6153/public_html/_includes/DB.class.php on line 5
+[26-Nov-2020 16:24:21 Asia/Jakarta] PHP Warning:  include(): Failed opening '/var/www/html/e-media/_includes/lib_adodb/adodb.inc.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/emea6153/public_html/_includes/DB.class.php on line 5
+[26-Nov-2020 16:24:21 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function ADONewConnection() in /home/emea6153/public_html/_includes/DB.class.php:22
+Stack trace:
+#0 /home/emea6153/public_html/_includes/DB.class.php(16): db->_dbconn()
+#1 /home/emea6153/public_html/_includes/classes/master_media_class.php(11): db->__construct()
+#2 /home/emea6153/public_html/e-media/sharedservice.php(67): mastermedia->mastermedia()
+#3 /home/emea6153/public_html/index.php(329): include('/home/emea6153/...')
+#4 {main}
+  thrown in /home/emea6153/public_html/_includes/DB.class.php on line 22
+[26-Nov-2020 16:35:05 Asia/Jakarta] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; mastermedia has a deprecated constructor in /home/emea6153/public_html/_includes/classes/master_media_class.php on line 7
+[26-Nov-2020 16:35:05 Asia/Jakarta] PHP Warning:  include(/var/www/html/e-media/_includes/lib_adodb/adodb.inc.php): failed to open stream: No such file or directory in /home/emea6153/public_html/_includes/DB.class.php on line 5
+[26-Nov-2020 16:35:05 Asia/Jakarta] PHP Warning:  include(/var/www/html/e-media/_includes/lib_adodb/adodb.inc.php): failed to open stream: No such file or directory in /home/emea6153/public_html/_includes/DB.class.php on line 5
+[26-Nov-2020 16:35:05 Asia/Jakarta] PHP Warning:  include(): Failed opening '/var/www/html/e-media/_includes/lib_adodb/adodb.inc.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/emea6153/public_html/_includes/DB.class.php on line 5
+[26-Nov-2020 16:35:05 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function ADONewConnection() in /home/emea6153/public_html/_includes/DB.class.php:22
+Stack trace:
+#0 /home/emea6153/public_html/_includes/DB.class.php(16): db->_dbconn()
+#1 /home/emea6153/public_html/_includes/classes/master_media_class.php(11): db->__construct()
+#2 /home/emea6153/public_html/e-media/sharedservice.php(67): mastermedia->mastermedia()
+#3 /home/emea6153/public_html/index.php(329): include('/home/emea6153/...')
+#4 {main}
+  thrown in /home/emea6153/public_html/_includes/DB.class.php on line 22
+[26-Nov-2020 16:35:08 Asia/Jakarta] PHP Warning:  include(/var/www/html/e-media/_includes/lib_adodb/adodb.inc.php): failed to open stream: No such file or directory in /home/emea6153/public_html/_includes/DB.class.php on line 5
+[26-Nov-2020 16:35:08 Asia/Jakarta] PHP Warning:  include(/var/www/html/e-media/_includes/lib_adodb/adodb.inc.php): failed to open stream: No such file or directory in /home/emea6153/public_html/_includes/DB.class.php on line 5
+[26-Nov-2020 16:35:08 Asia/Jakarta] PHP Warning:  include(): Failed opening '/var/www/html/e-media/_includes/lib_adodb/adodb.inc.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/emea6153/public_html/_includes/DB.class.php on line 5
+[26-Nov-2020 16:35:08 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function ADONewConnection() in /home/emea6153/public_html/_includes/DB.class.php:22
+Stack trace:
+#0 /home/emea6153/public_html/_includes/DB.class.php(16): db->_dbconn()
+#1 /home/emea6153/public_html/_includes/classes/master_media_class.php(11): db->__construct()
+#2 /home/emea6153/public_html/e-media/sharedservice.php(67): mastermedia->mastermedia()
+#3 /home/emea6153/public_html/index.php(329): include('/home/emea6153/...')
+#4 {main}
+  thrown in /home/emea6153/public_html/_includes/DB.class.php on line 22
+[26-Nov-2020 18:56:53 Asia/Jakarta] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; mastermedia has a deprecated constructor in /home/emea6153/public_html/_includes/classes/master_media_class.php on line 7
+[26-Nov-2020 18:56:53 Asia/Jakarta] PHP Warning:  include(/var/www/html/e-media/_includes/lib_adodb/adodb.inc.php): failed to open stream: No such file or directory in /home/emea6153/public_html/_includes/DB.class.php on line 5
+[26-Nov-2020 18:56:53 Asia/Jakarta] PHP Warning:  include(/var/www/html/e-media/_includes/lib_adodb/adodb.inc.php): failed to open stream: No such file or directory in /home/emea6153/public_html/_includes/DB.class.php on line 5
+[26-Nov-2020 18:56:53 Asia/Jakarta] PHP Warning:  include(): Failed opening '/var/www/html/e-media/_includes/lib_adodb/adodb.inc.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/emea6153/public_html/_includes/DB.class.php on line 5
+[26-Nov-2020 18:56:53 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function ADONewConnection() in /home/emea6153/public_html/_includes/DB.class.php:22
+Stack trace:
+#0 /home/emea6153/public_html/_includes/DB.class.php(16): db->_dbconn()
+#1 /home/emea6153/public_html/_includes/classes/master_media_class.php(11): db->__construct()
+#2 /home/emea6153/public_html/e-media/sharedservice.php(67): mastermedia->mastermedia()
+#3 /home/emea6153/public_html/index.php(329): include('/home/emea6153/...')
+#4 {main}
+  thrown in /home/emea6153/public_html/_includes/DB.class.php on line 22
+[26-Nov-2020 18:58:23 Asia/Jakarta] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; mastermedia has a deprecated constructor in /home/emea6153/public_html/_includes/classes/master_media_class.php on line 7
+[26-Nov-2020 18:58:23 Asia/Jakarta] PHP Warning:  include(/var/www/html/e-media/_includes/lib_adodb/adodb.inc.php): failed to open stream: No such file or directory in /home/emea6153/public_html/_includes/DB.class.php on line 5
+[26-Nov-2020 18:58:23 Asia/Jakarta] PHP Warning:  include(/var/www/html/e-media/_includes/lib_adodb/adodb.inc.php): failed to open stream: No such file or directory in /home/emea6153/public_html/_includes/DB.class.php on line 5
+[26-Nov-2020 18:58:23 Asia/Jakarta] PHP Warning:  include(): Failed opening '/var/www/html/e-media/_includes/lib_adodb/adodb.inc.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/emea6153/public_html/_includes/DB.class.php on line 5
+[26-Nov-2020 18:58:23 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function ADONewConnection() in /home/emea6153/public_html/_includes/DB.class.php:22
+Stack trace:
+#0 /home/emea6153/public_html/_includes/DB.class.php(16): db->_dbconn()
+#1 /home/emea6153/public_html/_includes/classes/master_media_class.php(11): db->__construct()
+#2 /home/emea6153/public_html/e-media/sharedservice.php(67): mastermedia->mastermedia()
+#3 /home/emea6153/public_html/index.php(329): include('/home/emea6153/...')
+#4 {main}
+  thrown in /home/emea6153/public_html/_includes/DB.class.php on line 22
+[26-Nov-2020 18:59:45 Asia/Jakarta] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; mastermedia has a deprecated constructor in /home/emea6153/public_html/_includes/classes/master_media_class.php on line 7
+[26-Nov-2020 18:59:45 Asia/Jakarta] PHP Warning:  include(/var/www/html/e-media/_includes/lib_adodb/adodb.inc.php): failed to open stream: No such file or directory in /home/emea6153/public_html/_includes/DB.class.php on line 5
+[26-Nov-2020 18:59:45 Asia/Jakarta] PHP Warning:  include(/var/www/html/e-media/_includes/lib_adodb/adodb.inc.php): failed to open stream: No such file or directory in /home/emea6153/public_html/_includes/DB.class.php on line 5
+[26-Nov-2020 18:59:45 Asia/Jakarta] PHP Warning:  include(): Failed opening '/var/www/html/e-media/_includes/lib_adodb/adodb.inc.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/emea6153/public_html/_includes/DB.class.php on line 5
+[26-Nov-2020 18:59:45 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function ADONewConnection() in /home/emea6153/public_html/_includes/DB.class.php:22
+Stack trace:
+#0 /home/emea6153/public_html/_includes/DB.class.php(16): db->_dbconn()
+#1 /home/emea6153/public_html/_includes/classes/master_media_class.php(11): db->__construct()
+#2 /home/emea6153/public_html/e-media/sharedservice.php(67): mastermedia->mastermedia()
+#3 /home/emea6153/public_html/index.php(329): include('/home/emea6153/...')
+#4 {main}
+  thrown in /home/emea6153/public_html/_includes/DB.class.php on line 22
+[26-Nov-2020 23:26:42 Asia/Jakarta] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; mastermedia has a deprecated constructor in /home/emea6153/public_html/_includes/classes/master_media_class.php on line 7
+[26-Nov-2020 23:26:42 Asia/Jakarta] PHP Warning:  include(/var/www/html/e-media/_includes/lib_adodb/adodb.inc.php): failed to open stream: No such file or directory in /home/emea6153/public_html/_includes/DB.class.php on line 5
+[26-Nov-2020 23:26:42 Asia/Jakarta] PHP Warning:  include(/var/www/html/e-media/_includes/lib_adodb/adodb.inc.php): failed to open stream: No such file or directory in /home/emea6153/public_html/_includes/DB.class.php on line 5
+[26-Nov-2020 23:26:42 Asia/Jakarta] PHP Warning:  include(): Failed opening '/var/www/html/e-media/_includes/lib_adodb/adodb.inc.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/emea6153/public_html/_includes/DB.class.php on line 5
+[26-Nov-2020 23:26:42 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function ADONewConnection() in /home/emea6153/public_html/_includes/DB.class.php:22
+Stack trace:
+#0 /home/emea6153/public_html/_includes/DB.class.php(16): db->_dbconn()
+#1 /home/emea6153/public_html/_includes/classes/master_media_class.php(11): db->__construct()
+#2 /home/emea6153/public_html/e-media/sharedservice.php(67): mastermedia->mastermedia()
+#3 /home/emea6153/public_html/index.php(329): include('/home/emea6153/...')
+#4 {main}
+  thrown in /home/emea6153/public_html/_includes/DB.class.php on line 22
+[26-Nov-2020 23:28:10 Asia/Jakarta] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; mastermedia has a deprecated constructor in /home/emea6153/public_html/_includes/classes/master_media_class.php on line 7
+[26-Nov-2020 23:28:10 Asia/Jakarta] PHP Warning:  include(/var/www/html/e-media/_includes/lib_adodb/adodb.inc.php): failed to open stream: No such file or directory in /home/emea6153/public_html/_includes/DB.class.php on line 5
+[26-Nov-2020 23:28:10 Asia/Jakarta] PHP Warning:  include(/var/www/html/e-media/_includes/lib_adodb/adodb.inc.php): failed to open stream: No such file or directory in /home/emea6153/public_html/_includes/DB.class.php on line 5
+[26-Nov-2020 23:28:10 Asia/Jakarta] PHP Warning:  include(): Failed opening '/var/www/html/e-media/_includes/lib_adodb/adodb.inc.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/emea6153/public_html/_includes/DB.class.php on line 5
+[26-Nov-2020 23:28:10 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function ADONewConnection() in /home/emea6153/public_html/_includes/DB.class.php:22
+Stack trace:
+#0 /home/emea6153/public_html/_includes/DB.class.php(16): db->_dbconn()
+#1 /home/emea6153/public_html/_includes/classes/master_media_class.php(11): db->__construct()
+#2 /home/emea6153/public_html/e-media/sharedservice.php(67): mastermedia->mastermedia()
+#3 /home/emea6153/public_html/index.php(329): include('/home/emea6153/...')
+#4 {main}
+  thrown in /home/emea6153/public_html/_includes/DB.class.php on line 22
+[26-Nov-2020 23:28:34 Asia/Jakarta] PHP Warning:  include(/var/www/html/e-media/_includes/lib_adodb/adodb.inc.php): failed to open stream: No such file or directory in /home/emea6153/public_html/_includes/DB.class.php on line 5
+[26-Nov-2020 23:28:34 Asia/Jakarta] PHP Warning:  include(/var/www/html/e-media/_includes/lib_adodb/adodb.inc.php): failed to open stream: No such file or directory in /home/emea6153/public_html/_includes/DB.class.php on line 5
+[26-Nov-2020 23:28:34 Asia/Jakarta] PHP Warning:  include(): Failed opening '/var/www/html/e-media/_includes/lib_adodb/adodb.inc.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/emea6153/public_html/_includes/DB.class.php on line 5
+[26-Nov-2020 23:28:34 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function ADONewConnection() in /home/emea6153/public_html/_includes/DB.class.php:22
+Stack trace:
+#0 /home/emea6153/public_html/_includes/DB.class.php(16): db->_dbconn()
+#1 /home/emea6153/public_html/_includes/classes/master_media_class.php(11): db->__construct()
+#2 /home/emea6153/public_html/e-media/sharedservice.php(67): mastermedia->mastermedia()
+#3 /home/emea6153/public_html/index.php(329): include('/home/emea6153/...')
+#4 {main}
+  thrown in /home/emea6153/public_html/_includes/DB.class.php on line 22
+[27-Nov-2020 00:45:54 Asia/Jakarta] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; mastermedia has a deprecated constructor in /home/emea6153/public_html/_includes/classes/master_media_class.php on line 7
+[27-Nov-2020 00:45:54 Asia/Jakarta] PHP Warning:  include(/var/www/html/e-media/_includes/lib_adodb/adodb.inc.php): failed to open stream: No such file or directory in /home/emea6153/public_html/_includes/DB.class.php on line 5
+[27-Nov-2020 00:45:54 Asia/Jakarta] PHP Warning:  include(/var/www/html/e-media/_includes/lib_adodb/adodb.inc.php): failed to open stream: No such file or directory in /home/emea6153/public_html/_includes/DB.class.php on line 5
+[27-Nov-2020 00:45:54 Asia/Jakarta] PHP Warning:  include(): Failed opening '/var/www/html/e-media/_includes/lib_adodb/adodb.inc.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/emea6153/public_html/_includes/DB.class.php on line 5
+[27-Nov-2020 00:45:54 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function ADONewConnection() in /home/emea6153/public_html/_includes/DB.class.php:22
+Stack trace:
+#0 /home/emea6153/public_html/_includes/DB.class.php(16): db->_dbconn()
+#1 /home/emea6153/public_html/_includes/classes/master_media_class.php(11): db->__construct()
+#2 /home/emea6153/public_html/e-media/sharedservice.php(67): mastermedia->mastermedia()
+#3 /home/emea6153/public_html/index.php(329): include('/home/emea6153/...')
+#4 {main}
+  thrown in /home/emea6153/public_html/_includes/DB.class.php on line 22
+[27-Nov-2020 00:45:59 Asia/Jakarta] PHP Warning:  include(/var/www/html/e-media/_includes/lib_adodb/adodb.inc.php): failed to open stream: No such file or directory in /home/emea6153/public_html/_includes/DB.class.php on line 5
+[27-Nov-2020 00:45:59 Asia/Jakarta] PHP Warning:  include(/var/www/html/e-media/_includes/lib_adodb/adodb.inc.php): failed to open stream: No such file or directory in /home/emea6153/public_html/_includes/DB.class.php on line 5
+[27-Nov-2020 00:45:59 Asia/Jakarta] PHP Warning:  include(): Failed opening '/var/www/html/e-media/_includes/lib_adodb/adodb.inc.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/emea6153/public_html/_includes/DB.class.php on line 5
+[27-Nov-2020 00:45:59 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function ADONewConnection() in /home/emea6153/public_html/_includes/DB.class.php:22
+Stack trace:
+#0 /home/emea6153/public_html/_includes/DB.class.php(16): db->_dbconn()
+#1 /home/emea6153/public_html/_includes/classes/master_media_class.php(11): db->__construct()
+#2 /home/emea6153/public_html/e-media/sharedservice.php(67): mastermedia->mastermedia()
+#3 /home/emea6153/public_html/index.php(329): include('/home/emea6153/...')
+#4 {main}
+  thrown in /home/emea6153/public_html/_includes/DB.class.php on line 22
+[27-Nov-2020 06:18:09 Asia/Jakarta] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; mastermedia has a deprecated constructor in /home/emea6153/public_html/_includes/classes/master_media_class.php on line 7
+[27-Nov-2020 06:18:09 Asia/Jakarta] PHP Warning:  include(/var/www/html/e-media/_includes/lib_adodb/adodb.inc.php): failed to open stream: No such file or directory in /home/emea6153/public_html/_includes/DB.class.php on line 5
+[27-Nov-2020 06:18:09 Asia/Jakarta] PHP Warning:  include(/var/www/html/e-media/_includes/lib_adodb/adodb.inc.php): failed to open stream: No such file or directory in /home/emea6153/public_html/_includes/DB.class.php on line 5
+[27-Nov-2020 06:18:09 Asia/Jakarta] PHP Warning:  include(): Failed opening '/var/www/html/e-media/_includes/lib_adodb/adodb.inc.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/emea6153/public_html/_includes/DB.class.php on line 5
+[27-Nov-2020 06:18:09 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function ADONewConnection() in /home/emea6153/public_html/_includes/DB.class.php:22
+Stack trace:
+#0 /home/emea6153/public_html/_includes/DB.class.php(16): db->_dbconn()
+#1 /home/emea6153/public_html/_includes/classes/master_media_class.php(11): db->__construct()
+#2 /home/emea6153/public_html/e-media/sharedservice.php(67): mastermedia->mastermedia()
+#3 /home/emea6153/public_html/index.php(329): include('/home/emea6153/...')
+#4 {main}
+  thrown in /home/emea6153/public_html/_includes/DB.class.php on line 22
+[27-Nov-2020 06:19:26 Asia/Jakarta] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; mastermedia has a deprecated constructor in /home/emea6153/public_html/_includes/classes/master_media_class.php on line 7
+[27-Nov-2020 06:19:26 Asia/Jakarta] PHP Warning:  include(/var/www/html/e-media/_includes/lib_adodb/adodb.inc.php): failed to open stream: No such file or directory in /home/emea6153/public_html/_includes/DB.class.php on line 5
+[27-Nov-2020 06:19:26 Asia/Jakarta] PHP Warning:  include(/var/www/html/e-media/_includes/lib_adodb/adodb.inc.php): failed to open stream: No such file or directory in /home/emea6153/public_html/_includes/DB.class.php on line 5
+[27-Nov-2020 06:19:26 Asia/Jakarta] PHP Warning:  include(): Failed opening '/var/www/html/e-media/_includes/lib_adodb/adodb.inc.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/emea6153/public_html/_includes/DB.class.php on line 5
+[27-Nov-2020 06:19:26 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function ADONewConnection() in /home/emea6153/public_html/_includes/DB.class.php:22
+Stack trace:
+#0 /home/emea6153/public_html/_includes/DB.class.php(16): db->_dbconn()
+#1 /home/emea6153/public_html/_includes/classes/master_media_class.php(11): db->__construct()
+#2 /home/emea6153/public_html/e-media/sharedservice.php(67): mastermedia->mastermedia()
+#3 /home/emea6153/public_html/index.php(329): include('/home/emea6153/...')
+#4 {main}
+  thrown in /home/emea6153/public_html/_includes/DB.class.php on line 22
+[27-Nov-2020 06:20:21 Asia/Jakarta] PHP Warning:  include(/var/www/html/e-media/_includes/lib_adodb/adodb.inc.php): failed to open stream: No such file or directory in /home/emea6153/public_html/_includes/DB.class.php on line 5
+[27-Nov-2020 06:20:21 Asia/Jakarta] PHP Warning:  include(/var/www/html/e-media/_includes/lib_adodb/adodb.inc.php): failed to open stream: No such file or directory in /home/emea6153/public_html/_includes/DB.class.php on line 5
+[27-Nov-2020 06:20:21 Asia/Jakarta] PHP Warning:  include(): Failed opening '/var/www/html/e-media/_includes/lib_adodb/adodb.inc.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/emea6153/public_html/_includes/DB.class.php on line 5
+[27-Nov-2020 06:20:21 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function ADONewConnection() in /home/emea6153/public_html/_includes/DB.class.php:22
+Stack trace:
+#0 /home/emea6153/public_html/_includes/DB.class.php(16): db->_dbconn()
+#1 /home/emea6153/public_html/_includes/classes/master_media_class.php(11): db->__construct()
+#2 /home/emea6153/public_html/e-media/sharedservice.php(67): mastermedia->mastermedia()
+#3 /home/emea6153/public_html/index.php(329): include('/home/emea6153/...')
+#4 {main}
+  thrown in /home/emea6153/public_html/_includes/DB.class.php on line 22
+[27-Nov-2020 06:20:25 Asia/Jakarta] PHP Warning:  include(/var/www/html/e-media/_includes/lib_adodb/adodb.inc.php): failed to open stream: No such file or directory in /home/emea6153/public_html/_includes/DB.class.php on line 5
+[27-Nov-2020 06:20:25 Asia/Jakarta] PHP Warning:  include(/var/www/html/e-media/_includes/lib_adodb/adodb.inc.php): failed to open stream: No such file or directory in /home/emea6153/public_html/_includes/DB.class.php on line 5
+[27-Nov-2020 06:20:25 Asia/Jakarta] PHP Warning:  include(): Failed opening '/var/www/html/e-media/_includes/lib_adodb/adodb.inc.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/emea6153/public_html/_includes/DB.class.php on line 5
+[27-Nov-2020 06:20:25 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function ADONewConnection() in /home/emea6153/public_html/_includes/DB.class.php:22
+Stack trace:
+#0 /home/emea6153/public_html/_includes/DB.class.php(16): db->_dbconn()
+#1 /home/emea6153/public_html/_includes/classes/master_media_class.php(11): db->__construct()
+#2 /home/emea6153/public_html/e-media/sharedservice.php(67): mastermedia->mastermedia()
+#3 /home/emea6153/public_html/index.php(329): include('/home/emea6153/...')
+#4 {main}
+  thrown in /home/emea6153/public_html/_includes/DB.class.php on line 22
+[27-Nov-2020 06:20:29 Asia/Jakarta] PHP Warning:  include(/var/www/html/e-media/_includes/lib_adodb/adodb.inc.php): failed to open stream: No such file or directory in /home/emea6153/public_html/_includes/DB.class.php on line 5
+[27-Nov-2020 06:20:29 Asia/Jakarta] PHP Warning:  include(/var/www/html/e-media/_includes/lib_adodb/adodb.inc.php): failed to open stream: No such file or directory in /home/emea6153/public_html/_includes/DB.class.php on line 5
+[27-Nov-2020 06:20:29 Asia/Jakarta] PHP Warning:  include(): Failed opening '/var/www/html/e-media/_includes/lib_adodb/adodb.inc.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/emea6153/public_html/_includes/DB.class.php on line 5
+[27-Nov-2020 06:20:29 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function ADONewConnection() in /home/emea6153/public_html/_includes/DB.class.php:22
+Stack trace:
+#0 /home/emea6153/public_html/_includes/DB.class.php(16): db->_dbconn()
+#1 /home/emea6153/public_html/_includes/classes/master_media_class.php(11): db->__construct()
+#2 /home/emea6153/public_html/e-media/sharedservice.php(67): mastermedia->mastermedia()
+#3 /home/emea6153/public_html/index.php(329): include('/home/emea6153/...')
+#4 {main}
+  thrown in /home/emea6153/public_html/_includes/DB.class.php on line 22
+[27-Nov-2020 13:16:28 Asia/Jakarta] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; mastermedia has a deprecated constructor in /home/emea6153/public_html/_includes/classes/master_media_class.php on line 7
+[27-Nov-2020 13:16:28 Asia/Jakarta] PHP Warning:  include(/var/www/html/e-media/_includes/lib_adodb/adodb.inc.php): failed to open stream: No such file or directory in /home/emea6153/public_html/_includes/DB.class.php on line 5
+[27-Nov-2020 13:16:28 Asia/Jakarta] PHP Warning:  include(/var/www/html/e-media/_includes/lib_adodb/adodb.inc.php): failed to open stream: No such file or directory in /home/emea6153/public_html/_includes/DB.class.php on line 5
+[27-Nov-2020 13:16:28 Asia/Jakarta] PHP Warning:  include(): Failed opening '/var/www/html/e-media/_includes/lib_adodb/adodb.inc.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/emea6153/public_html/_includes/DB.class.php on line 5
+[27-Nov-2020 13:16:28 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function ADONewConnection() in /home/emea6153/public_html/_includes/DB.class.php:22
+Stack trace:
+#0 /home/emea6153/public_html/_includes/DB.class.php(16): db->_dbconn()
+#1 /home/emea6153/public_html/_includes/classes/master_media_class.php(11): db->__construct()
+#2 /home/emea6153/public_html/e-media/sharedservice.php(67): mastermedia->mastermedia()
+#3 /home/emea6153/public_html/index.php(329): include('/home/emea6153/...')
+#4 {main}
+  thrown in /home/emea6153/public_html/_includes/DB.class.php on line 22
+[27-Nov-2020 13:16:45 Asia/Jakarta] PHP Warning:  include(/var/www/html/e-media/_includes/lib_adodb/adodb.inc.php): failed to open stream: No such file or directory in /home/emea6153/public_html/_includes/DB.class.php on line 5
+[27-Nov-2020 13:16:45 Asia/Jakarta] PHP Warning:  include(/var/www/html/e-media/_includes/lib_adodb/adodb.inc.php): failed to open stream: No such file or directory in /home/emea6153/public_html/_includes/DB.class.php on line 5
+[27-Nov-2020 13:16:45 Asia/Jakarta] PHP Warning:  include(): Failed opening '/var/www/html/e-media/_includes/lib_adodb/adodb.inc.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/emea6153/public_html/_includes/DB.class.php on line 5
+[27-Nov-2020 13:16:45 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function ADONewConnection() in /home/emea6153/public_html/_includes/DB.class.php:22
+Stack trace:
+#0 /home/emea6153/public_html/_includes/DB.class.php(16): db->_dbconn()
+#1 /home/emea6153/public_html/_includes/classes/master_media_class.php(11): db->__construct()
+#2 /home/emea6153/public_html/e-media/sharedservice.php(67): mastermedia->mastermedia()
+#3 /home/emea6153/public_html/index.php(329): include('/home/emea6153/...')
+#4 {main}
+  thrown in /home/emea6153/public_html/_includes/DB.class.php on line 22
+[27-Nov-2020 13:39:53 Asia/Jakarta] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; mastermedia has a deprecated constructor in /home/emea6153/public_html/_includes/classes/master_media_class.php on line 7
+[27-Nov-2020 13:39:53 Asia/Jakarta] PHP Warning:  include(/var/www/html/e-media/_includes/lib_adodb/adodb.inc.php): failed to open stream: No such file or directory in /home/emea6153/public_html/_includes/DB.class.php on line 5
+[27-Nov-2020 13:39:53 Asia/Jakarta] PHP Warning:  include(/var/www/html/e-media/_includes/lib_adodb/adodb.inc.php): failed to open stream: No such file or directory in /home/emea6153/public_html/_includes/DB.class.php on line 5
+[27-Nov-2020 13:39:53 Asia/Jakarta] PHP Warning:  include(): Failed opening '/var/www/html/e-media/_includes/lib_adodb/adodb.inc.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/emea6153/public_html/_includes/DB.class.php on line 5
+[27-Nov-2020 13:39:53 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function ADONewConnection() in /home/emea6153/public_html/_includes/DB.class.php:22
+Stack trace:
+#0 /home/emea6153/public_html/_includes/DB.class.php(16): db->_dbconn()
+#1 /home/emea6153/public_html/_includes/classes/master_media_class.php(11): db->__construct()
+#2 /home/emea6153/public_html/e-media/sharedservice.php(67): mastermedia->mastermedia()
+#3 /home/emea6153/public_html/index.php(329): include('/home/emea6153/...')
+#4 {main}
+  thrown in /home/emea6153/public_html/_includes/DB.class.php on line 22
+[27-Nov-2020 13:40:03 Asia/Jakarta] PHP Warning:  include(/var/www/html/e-media/_includes/lib_adodb/adodb.inc.php): failed to open stream: No such file or directory in /home/emea6153/public_html/_includes/DB.class.php on line 5
+[27-Nov-2020 13:40:03 Asia/Jakarta] PHP Warning:  include(/var/www/html/e-media/_includes/lib_adodb/adodb.inc.php): failed to open stream: No such file or directory in /home/emea6153/public_html/_includes/DB.class.php on line 5
+[27-Nov-2020 13:40:03 Asia/Jakarta] PHP Warning:  include(): Failed opening '/var/www/html/e-media/_includes/lib_adodb/adodb.inc.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/emea6153/public_html/_includes/DB.class.php on line 5
+[27-Nov-2020 13:40:03 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function ADONewConnection() in /home/emea6153/public_html/_includes/DB.class.php:22
+Stack trace:
+#0 /home/emea6153/public_html/_includes/DB.class.php(16): db->_dbconn()
+#1 /home/emea6153/public_html/_includes/classes/master_media_class.php(11): db->__construct()
+#2 /home/emea6153/public_html/e-media/sharedservice.php(67): mastermedia->mastermedia()
+#3 /home/emea6153/public_html/index.php(329): include('/home/emea6153/...')
+#4 {main}
+  thrown in /home/emea6153/public_html/_includes/DB.class.php on line 22
+[27-Nov-2020 13:40:12 Asia/Jakarta] PHP Warning:  include(/var/www/html/e-media/_includes/lib_adodb/adodb.inc.php): failed to open stream: No such file or directory in /home/emea6153/public_html/_includes/DB.class.php on line 5
+[27-Nov-2020 13:40:12 Asia/Jakarta] PHP Warning:  include(/var/www/html/e-media/_includes/lib_adodb/adodb.inc.php): failed to open stream: No such file or directory in /home/emea6153/public_html/_includes/DB.class.php on line 5
+[27-Nov-2020 13:40:12 Asia/Jakarta] PHP Warning:  include(): Failed opening '/var/www/html/e-media/_includes/lib_adodb/adodb.inc.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/emea6153/public_html/_includes/DB.class.php on line 5
+[27-Nov-2020 13:40:12 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function ADONewConnection() in /home/emea6153/public_html/_includes/DB.class.php:22
+Stack trace:
+#0 /home/emea6153/public_html/_includes/DB.class.php(16): db->_dbconn()
+#1 /home/emea6153/public_html/_includes/classes/master_media_class.php(11): db->__construct()
+#2 /home/emea6153/public_html/e-media/sharedservice.php(67): mastermedia->mastermedia()
+#3 /home/emea6153/public_html/index.php(329): include('/home/emea6153/...')
+#4 {main}
+  thrown in /home/emea6153/public_html/_includes/DB.class.php on line 22
+[27-Nov-2020 17:48:50 Asia/Jakarta] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; mastermedia has a deprecated constructor in /home/emea6153/public_html/_includes/classes/master_media_class.php on line 7
+[27-Nov-2020 17:48:50 Asia/Jakarta] PHP Warning:  include(/var/www/html/e-media/_includes/lib_adodb/adodb.inc.php): failed to open stream: No such file or directory in /home/emea6153/public_html/_includes/DB.class.php on line 5
+[27-Nov-2020 17:48:50 Asia/Jakarta] PHP Warning:  include(/var/www/html/e-media/_includes/lib_adodb/adodb.inc.php): failed to open stream: No such file or directory in /home/emea6153/public_html/_includes/DB.class.php on line 5
+[27-Nov-2020 17:48:50 Asia/Jakarta] PHP Warning:  include(): Failed opening '/var/www/html/e-media/_includes/lib_adodb/adodb.inc.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/emea6153/public_html/_includes/DB.class.php on line 5
+[27-Nov-2020 17:48:50 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function ADONewConnection() in /home/emea6153/public_html/_includes/DB.class.php:22
+Stack trace:
+#0 /home/emea6153/public_html/_includes/DB.class.php(16): db->_dbconn()
+#1 /home/emea6153/public_html/_includes/classes/master_media_class.php(11): db->__construct()
+#2 /home/emea6153/public_html/e-media/sharedservice.php(67): mastermedia->mastermedia()
+#3 /home/emea6153/public_html/index.php(329): include('/home/emea6153/...')
+#4 {main}
+  thrown in /home/emea6153/public_html/_includes/DB.class.php on line 22
+[27-Nov-2020 18:03:07 Asia/Jakarta] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; mastermedia has a deprecated constructor in /home/emea6153/public_html/_includes/classes/master_media_class.php on line 7
+[27-Nov-2020 18:03:07 Asia/Jakarta] PHP Warning:  include(/var/www/html/e-media/_includes/lib_adodb/adodb.inc.php): failed to open stream: No such file or directory in /home/emea6153/public_html/_includes/DB.class.php on line 5
+[27-Nov-2020 18:03:07 Asia/Jakarta] PHP Warning:  include(/var/www/html/e-media/_includes/lib_adodb/adodb.inc.php): failed to open stream: No such file or directory in /home/emea6153/public_html/_includes/DB.class.php on line 5
+[27-Nov-2020 18:03:07 Asia/Jakarta] PHP Warning:  include(): Failed opening '/var/www/html/e-media/_includes/lib_adodb/adodb.inc.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/emea6153/public_html/_includes/DB.class.php on line 5
+[27-Nov-2020 18:03:07 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function ADONewConnection() in /home/emea6153/public_html/_includes/DB.class.php:22
+Stack trace:
+#0 /home/emea6153/public_html/_includes/DB.class.php(16): db->_dbconn()
+#1 /home/emea6153/public_html/_includes/classes/master_media_class.php(11): db->__construct()
+#2 /home/emea6153/public_html/e-media/sharedservice.php(67): mastermedia->mastermedia()
+#3 /home/emea6153/public_html/index.php(329): include('/home/emea6153/...')
+#4 {main}
+  thrown in /home/emea6153/public_html/_includes/DB.class.php on line 22
+[27-Nov-2020 18:03:08 Asia/Jakarta] PHP Warning:  include(/var/www/html/e-media/_includes/lib_adodb/adodb.inc.php): failed to open stream: No such file or directory in /home/emea6153/public_html/_includes/DB.class.php on line 5
+[27-Nov-2020 18:03:08 Asia/Jakarta] PHP Warning:  include(/var/www/html/e-media/_includes/lib_adodb/adodb.inc.php): failed to open stream: No such file or directory in /home/emea6153/public_html/_includes/DB.class.php on line 5
+[27-Nov-2020 18:03:08 Asia/Jakarta] PHP Warning:  include(): Failed opening '/var/www/html/e-media/_includes/lib_adodb/adodb.inc.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/emea6153/public_html/_includes/DB.class.php on line 5
+[27-Nov-2020 18:03:08 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function ADONewConnection() in /home/emea6153/public_html/_includes/DB.class.php:22
+Stack trace:
+#0 /home/emea6153/public_html/_includes/DB.class.php(16): db->_dbconn()
+#1 /home/emea6153/public_html/_includes/classes/master_media_class.php(11): db->__construct()
+#2 /home/emea6153/public_html/e-media/sharedservice.php(67): mastermedia->mastermedia()
+#3 /home/emea6153/public_html/index.php(329): include('/home/emea6153/...')
+#4 {main}
+  thrown in /home/emea6153/public_html/_includes/DB.class.php on line 22
+[27-Nov-2020 18:03:19 Asia/Jakarta] PHP Warning:  include(/var/www/html/e-media/_includes/lib_adodb/adodb.inc.php): failed to open stream: No such file or directory in /home/emea6153/public_html/_includes/DB.class.php on line 5
+[27-Nov-2020 18:03:19 Asia/Jakarta] PHP Warning:  include(/var/www/html/e-media/_includes/lib_adodb/adodb.inc.php): failed to open stream: No such file or directory in /home/emea6153/public_html/_includes/DB.class.php on line 5
+[27-Nov-2020 18:03:19 Asia/Jakarta] PHP Warning:  include(): Failed opening '/var/www/html/e-media/_includes/lib_adodb/adodb.inc.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/emea6153/public_html/_includes/DB.class.php on line 5
+[27-Nov-2020 18:03:19 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function ADONewConnection() in /home/emea6153/public_html/_includes/DB.class.php:22
+Stack trace:
+#0 /home/emea6153/public_html/_includes/DB.class.php(16): db->_dbconn()
+#1 /home/emea6153/public_html/_includes/classes/master_media_class.php(11): db->__construct()
+#2 /home/emea6153/public_html/e-media/sharedservice.php(67): mastermedia->mastermedia()
+#3 /home/emea6153/public_html/index.php(329): include('/home/emea6153/...')
+#4 {main}
+  thrown in /home/emea6153/public_html/_includes/DB.class.php on line 22
+[28-Nov-2020 18:55:11 Asia/Jakarta] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; mastermedia has a deprecated constructor in /home/emea6153/public_html/_includes/classes/master_media_class.php on line 7
+[28-Nov-2020 18:55:11 Asia/Jakarta] PHP Warning:  include(/var/www/html/e-media/_includes/lib_adodb/adodb.inc.php): failed to open stream: No such file or directory in /home/emea6153/public_html/_includes/DB.class.php on line 5
+[28-Nov-2020 18:55:11 Asia/Jakarta] PHP Warning:  include(/var/www/html/e-media/_includes/lib_adodb/adodb.inc.php): failed to open stream: No such file or directory in /home/emea6153/public_html/_includes/DB.class.php on line 5
+[28-Nov-2020 18:55:11 Asia/Jakarta] PHP Warning:  include(): Failed opening '/var/www/html/e-media/_includes/lib_adodb/adodb.inc.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/emea6153/public_html/_includes/DB.class.php on line 5
+[28-Nov-2020 18:55:11 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function ADONewConnection() in /home/emea6153/public_html/_includes/DB.class.php:22
+Stack trace:
+#0 /home/emea6153/public_html/_includes/DB.class.php(16): db->_dbconn()
+#1 /home/emea6153/public_html/_includes/classes/master_media_class.php(11): db->__construct()
+#2 /home/emea6153/public_html/e-media/sharedservice.php(67): mastermedia->mastermedia()
+#3 /home/emea6153/public_html/index.php(329): include('/home/emea6153/...')
+#4 {main}
+  thrown in /home/emea6153/public_html/_includes/DB.class.php on line 22
+[28-Nov-2020 18:55:22 Asia/Jakarta] PHP Warning:  include(/var/www/html/e-media/_includes/lib_adodb/adodb.inc.php): failed to open stream: No such file or directory in /home/emea6153/public_html/_includes/DB.class.php on line 5
+[28-Nov-2020 18:55:22 Asia/Jakarta] PHP Warning:  include(/var/www/html/e-media/_includes/lib_adodb/adodb.inc.php): failed to open stream: No such file or directory in /home/emea6153/public_html/_includes/DB.class.php on line 5
+[28-Nov-2020 18:55:22 Asia/Jakarta] PHP Warning:  include(): Failed opening '/var/www/html/e-media/_includes/lib_adodb/adodb.inc.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/emea6153/public_html/_includes/DB.class.php on line 5
+[28-Nov-2020 18:55:22 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function ADONewConnection() in /home/emea6153/public_html/_includes/DB.class.php:22
+Stack trace:
+#0 /home/emea6153/public_html/_includes/DB.class.php(16): db->_dbconn()
+#1 /home/emea6153/public_html/_includes/classes/master_media_class.php(11): db->__construct()
+#2 /home/emea6153/public_html/e-media/sharedservice.php(67): mastermedia->mastermedia()
+#3 /home/emea6153/public_html/index.php(329): include('/home/emea6153/...')
+#4 {main}
+  thrown in /home/emea6153/public_html/_includes/DB.class.php on line 22
+[30-Nov-2020 10:55:08 Asia/Jakarta] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; mastermedia has a deprecated constructor in /home/emea6153/public_html/_includes/classes/master_media_class.php on line 7
+[30-Nov-2020 10:55:08 Asia/Jakarta] PHP Warning:  include(/var/www/html/e-media/_includes/lib_adodb/adodb.inc.php): failed to open stream: No such file or directory in /home/emea6153/public_html/_includes/DB.class.php on line 5
+[30-Nov-2020 10:55:08 Asia/Jakarta] PHP Warning:  include(/var/www/html/e-media/_includes/lib_adodb/adodb.inc.php): failed to open stream: No such file or directory in /home/emea6153/public_html/_includes/DB.class.php on line 5
+[30-Nov-2020 10:55:08 Asia/Jakarta] PHP Warning:  include(): Failed opening '/var/www/html/e-media/_includes/lib_adodb/adodb.inc.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/emea6153/public_html/_includes/DB.class.php on line 5
+[30-Nov-2020 10:55:08 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function ADONewConnection() in /home/emea6153/public_html/_includes/DB.class.php:22
+Stack trace:
+#0 /home/emea6153/public_html/_includes/DB.class.php(16): db->_dbconn()
+#1 /home/emea6153/public_html/_includes/classes/master_media_class.php(11): db->__construct()
+#2 /home/emea6153/public_html/e-media/sharedservice.php(67): mastermedia->mastermedia()
+#3 /home/emea6153/public_html/index.php(329): include('/home/emea6153/...')
+#4 {main}
+  thrown in /home/emea6153/public_html/_includes/DB.class.php on line 22
+[30-Nov-2020 10:55:17 Asia/Jakarta] PHP Warning:  include(/var/www/html/e-media/_includes/lib_adodb/adodb.inc.php): failed to open stream: No such file or directory in /home/emea6153/public_html/_includes/DB.class.php on line 5
+[30-Nov-2020 10:55:17 Asia/Jakarta] PHP Warning:  include(/var/www/html/e-media/_includes/lib_adodb/adodb.inc.php): failed to open stream: No such file or directory in /home/emea6153/public_html/_includes/DB.class.php on line 5
+[30-Nov-2020 10:55:17 Asia/Jakarta] PHP Warning:  include(): Failed opening '/var/www/html/e-media/_includes/lib_adodb/adodb.inc.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/emea6153/public_html/_includes/DB.class.php on line 5
+[30-Nov-2020 10:55:17 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function ADONewConnection() in /home/emea6153/public_html/_includes/DB.class.php:22
+Stack trace:
+#0 /home/emea6153/public_html/_includes/DB.class.php(16): db->_dbconn()
+#1 /home/emea6153/public_html/_includes/classes/master_media_class.php(11): db->__construct()
+#2 /home/emea6153/public_html/e-media/sharedservice.php(67): mastermedia->mastermedia()
+#3 /home/emea6153/public_html/index.php(329): include('/home/emea6153/...')
+#4 {main}
+  thrown in /home/emea6153/public_html/_includes/DB.class.php on line 22
+[30-Nov-2020 10:55:18 Asia/Jakarta] PHP Warning:  include(/var/www/html/e-media/_includes/lib_adodb/adodb.inc.php): failed to open stream: No such file or directory in /home/emea6153/public_html/_includes/DB.class.php on line 5
+[30-Nov-2020 10:55:18 Asia/Jakarta] PHP Warning:  include(/var/www/html/e-media/_includes/lib_adodb/adodb.inc.php): failed to open stream: No such file or directory in /home/emea6153/public_html/_includes/DB.class.php on line 5
+[30-Nov-2020 10:55:18 Asia/Jakarta] PHP Warning:  include(): Failed opening '/var/www/html/e-media/_includes/lib_adodb/adodb.inc.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/emea6153/public_html/_includes/DB.class.php on line 5
+[30-Nov-2020 10:55:18 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function ADONewConnection() in /home/emea6153/public_html/_includes/DB.class.php:22
+Stack trace:
+#0 /home/emea6153/public_html/_includes/DB.class.php(16): db->_dbconn()
+#1 /home/emea6153/public_html/_includes/classes/master_media_class.php(11): db->__construct()
+#2 /home/emea6153/public_html/e-media/sharedservice.php(67): mastermedia->mastermedia()
+#3 /home/emea6153/public_html/index.php(329): include('/home/emea6153/...')
+#4 {main}
+  thrown in /home/emea6153/public_html/_includes/DB.class.php on line 22
+[30-Nov-2020 10:55:19 Asia/Jakarta] PHP Warning:  include(/var/www/html/e-media/_includes/lib_adodb/adodb.inc.php): failed to open stream: No such file or directory in /home/emea6153/public_html/_includes/DB.class.php on line 5
+[30-Nov-2020 10:55:19 Asia/Jakarta] PHP Warning:  include(/var/www/html/e-media/_includes/lib_adodb/adodb.inc.php): failed to open stream: No such file or directory in /home/emea6153/public_html/_includes/DB.class.php on line 5
+[30-Nov-2020 10:55:19 Asia/Jakarta] PHP Warning:  include(): Failed opening '/var/www/html/e-media/_includes/lib_adodb/adodb.inc.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/emea6153/public_html/_includes/DB.class.php on line 5
+[30-Nov-2020 10:55:19 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function ADONewConnection() in /home/emea6153/public_html/_includes/DB.class.php:22
+Stack trace:
+#0 /home/emea6153/public_html/_includes/DB.class.php(16): db->_dbconn()
+#1 /home/emea6153/public_html/_includes/classes/master_media_class.php(11): db->__construct()
+#2 /home/emea6153/public_html/e-media/sharedservice.php(67): mastermedia->mastermedia()
+#3 /home/emea6153/public_html/index.php(329): include('/home/emea6153/...')
+#4 {main}
+  thrown in /home/emea6153/public_html/_includes/DB.class.php on line 22
+[30-Nov-2020 10:55:22 Asia/Jakarta] PHP Warning:  include(/var/www/html/e-media/_includes/lib_adodb/adodb.inc.php): failed to open stream: No such file or directory in /home/emea6153/public_html/_includes/DB.class.php on line 5
+[30-Nov-2020 10:55:22 Asia/Jakarta] PHP Warning:  include(/var/www/html/e-media/_includes/lib_adodb/adodb.inc.php): failed to open stream: No such file or directory in /home/emea6153/public_html/_includes/DB.class.php on line 5
+[30-Nov-2020 10:55:22 Asia/Jakarta] PHP Warning:  include(): Failed opening '/var/www/html/e-media/_includes/lib_adodb/adodb.inc.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/emea6153/public_html/_includes/DB.class.php on line 5
+[30-Nov-2020 10:55:22 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function ADONewConnection() in /home/emea6153/public_html/_includes/DB.class.php:22
+Stack trace:
+#0 /home/emea6153/public_html/_includes/DB.class.php(16): db->_dbconn()
+#1 /home/emea6153/public_html/_includes/classes/master_media_class.php(11): db->__construct()
+#2 /home/emea6153/public_html/e-media/sharedservice.php(67): mastermedia->mastermedia()
+#3 /home/emea6153/public_html/index.php(329): include('/home/emea6153/...')
+#4 {main}
+  thrown in /home/emea6153/public_html/_includes/DB.class.php on line 22
+[30-Nov-2020 11:30:10 Asia/Jakarta] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; mastermedia has a deprecated constructor in /home/emea6153/public_html/_includes/classes/master_media_class.php on line 7
+[30-Nov-2020 11:30:10 Asia/Jakarta] PHP Warning:  include(/var/www/html/e-media/_includes/lib_adodb/adodb.inc.php): failed to open stream: No such file or directory in /home/emea6153/public_html/_includes/DB.class.php on line 5
+[30-Nov-2020 11:30:10 Asia/Jakarta] PHP Warning:  include(/var/www/html/e-media/_includes/lib_adodb/adodb.inc.php): failed to open stream: No such file or directory in /home/emea6153/public_html/_includes/DB.class.php on line 5
+[30-Nov-2020 11:30:10 Asia/Jakarta] PHP Warning:  include(): Failed opening '/var/www/html/e-media/_includes/lib_adodb/adodb.inc.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/emea6153/public_html/_includes/DB.class.php on line 5
+[30-Nov-2020 11:30:10 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function ADONewConnection() in /home/emea6153/public_html/_includes/DB.class.php:22
+Stack trace:
+#0 /home/emea6153/public_html/_includes/DB.class.php(16): db->_dbconn()
+#1 /home/emea6153/public_html/_includes/classes/master_media_class.php(11): db->__construct()
+#2 /home/emea6153/public_html/e-media/sharedservice.php(67): mastermedia->mastermedia()
+#3 /home/emea6153/public_html/index.php(329): include('/home/emea6153/...')
+#4 {main}
+  thrown in /home/emea6153/public_html/_includes/DB.class.php on line 22
+[30-Nov-2020 12:51:12 Asia/Jakarta] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; mastermedia has a deprecated constructor in /home/emea6153/public_html/_includes/classes/master_media_class.php on line 7
+[30-Nov-2020 12:51:12 Asia/Jakarta] PHP Warning:  include(/var/www/html/e-media/_includes/lib_adodb/adodb.inc.php): failed to open stream: No such file or directory in /home/emea6153/public_html/_includes/DB.class.php on line 5
+[30-Nov-2020 12:51:12 Asia/Jakarta] PHP Warning:  include(/var/www/html/e-media/_includes/lib_adodb/adodb.inc.php): failed to open stream: No such file or directory in /home/emea6153/public_html/_includes/DB.class.php on line 5
+[30-Nov-2020 12:51:12 Asia/Jakarta] PHP Warning:  include(): Failed opening '/var/www/html/e-media/_includes/lib_adodb/adodb.inc.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/emea6153/public_html/_includes/DB.class.php on line 5
+[30-Nov-2020 12:51:12 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function ADONewConnection() in /home/emea6153/public_html/_includes/DB.class.php:22
+Stack trace:
+#0 /home/emea6153/public_html/_includes/DB.class.php(16): db->_dbconn()
+#1 /home/emea6153/public_html/_includes/classes/master_media_class.php(11): db->__construct()
+#2 /home/emea6153/public_html/e-media/sharedservice.php(67): mastermedia->mastermedia()
+#3 /home/emea6153/public_html/index.php(329): include('/home/emea6153/...')
+#4 {main}
+  thrown in /home/emea6153/public_html/_includes/DB.class.php on line 22
+[30-Nov-2020 12:51:46 Asia/Jakarta] PHP Warning:  include(/var/www/html/e-media/_includes/lib_adodb/adodb.inc.php): failed to open stream: No such file or directory in /home/emea6153/public_html/_includes/DB.class.php on line 5
+[30-Nov-2020 12:51:46 Asia/Jakarta] PHP Warning:  include(/var/www/html/e-media/_includes/lib_adodb/adodb.inc.php): failed to open stream: No such file or directory in /home/emea6153/public_html/_includes/DB.class.php on line 5
+[30-Nov-2020 12:51:46 Asia/Jakarta] PHP Warning:  include(): Failed opening '/var/www/html/e-media/_includes/lib_adodb/adodb.inc.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/emea6153/public_html/_includes/DB.class.php on line 5
+[30-Nov-2020 12:51:46 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function ADONewConnection() in /home/emea6153/public_html/_includes/DB.class.php:22
+Stack trace:
+#0 /home/emea6153/public_html/_includes/DB.class.php(16): db->_dbconn()
+#1 /home/emea6153/public_html/_includes/classes/master_media_class.php(11): db->__construct()
+#2 /home/emea6153/public_html/e-media/sharedservice.php(67): mastermedia->mastermedia()
+#3 /home/emea6153/public_html/index.php(329): include('/home/emea6153/...')
+#4 {main}
+  thrown in /home/emea6153/public_html/_includes/DB.class.php on line 22
+[30-Nov-2020 14:19:02 Asia/Jakarta] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; mastermedia has a deprecated constructor in /home/emea6153/public_html/_includes/classes/master_media_class.php on line 7
+[30-Nov-2020 14:19:02 Asia/Jakarta] PHP Warning:  include(/var/www/html/e-media/_includes/lib_adodb/adodb.inc.php): failed to open stream: No such file or directory in /home/emea6153/public_html/_includes/DB.class.php on line 5
+[30-Nov-2020 14:19:02 Asia/Jakarta] PHP Warning:  include(/var/www/html/e-media/_includes/lib_adodb/adodb.inc.php): failed to open stream: No such file or directory in /home/emea6153/public_html/_includes/DB.class.php on line 5
+[30-Nov-2020 14:19:02 Asia/Jakarta] PHP Warning:  include(): Failed opening '/var/www/html/e-media/_includes/lib_adodb/adodb.inc.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/emea6153/public_html/_includes/DB.class.php on line 5
+[30-Nov-2020 14:19:02 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function ADONewConnection() in /home/emea6153/public_html/_includes/DB.class.php:22
+Stack trace:
+#0 /home/emea6153/public_html/_includes/DB.class.php(16): db->_dbconn()
+#1 /home/emea6153/public_html/_includes/classes/master_media_class.php(11): db->__construct()
+#2 /home/emea6153/public_html/e-media/sharedservice.php(67): mastermedia->mastermedia()
+#3 /home/emea6153/public_html/index.php(329): include('/home/emea6153/...')
+#4 {main}
+  thrown in /home/emea6153/public_html/_includes/DB.class.php on line 22
+[30-Nov-2020 19:34:54 Asia/Jakarta] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; mastermedia has a deprecated constructor in /home/emea6153/public_html/_includes/classes/master_media_class.php on line 7
+[30-Nov-2020 19:34:54 Asia/Jakarta] PHP Warning:  include(/var/www/html/e-media/_includes/lib_adodb/adodb.inc.php): failed to open stream: No such file or directory in /home/emea6153/public_html/_includes/DB.class.php on line 5
+[30-Nov-2020 19:34:54 Asia/Jakarta] PHP Warning:  include(/var/www/html/e-media/_includes/lib_adodb/adodb.inc.php): failed to open stream: No such file or directory in /home/emea6153/public_html/_includes/DB.class.php on line 5
+[30-Nov-2020 19:34:54 Asia/Jakarta] PHP Warning:  include(): Failed opening '/var/www/html/e-media/_includes/lib_adodb/adodb.inc.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/emea6153/public_html/_includes/DB.class.php on line 5
+[30-Nov-2020 19:34:54 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function ADONewConnection() in /home/emea6153/public_html/_includes/DB.class.php:22
+Stack trace:
+#0 /home/emea6153/public_html/_includes/DB.class.php(16): db->_dbconn()
+#1 /home/emea6153/public_html/_includes/classes/master_media_class.php(11): db->__construct()
+#2 /home/emea6153/public_html/e-media/sharedservice.php(67): mastermedia->mastermedia()
+#3 /home/emea6153/public_html/index.php(329): include('/home/emea6153/...')
+#4 {main}
+  thrown in /home/emea6153/public_html/_includes/DB.class.php on line 22
+[30-Nov-2020 19:36:08 Asia/Jakarta] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; mastermedia has a deprecated constructor in /home/emea6153/public_html/_includes/classes/master_media_class.php on line 7
+[30-Nov-2020 19:36:08 Asia/Jakarta] PHP Warning:  include(/var/www/html/e-media/_includes/lib_adodb/adodb.inc.php): failed to open stream: No such file or directory in /home/emea6153/public_html/_includes/DB.class.php on line 5
+[30-Nov-2020 19:36:08 Asia/Jakarta] PHP Warning:  include(/var/www/html/e-media/_includes/lib_adodb/adodb.inc.php): failed to open stream: No such file or directory in /home/emea6153/public_html/_includes/DB.class.php on line 5
+[30-Nov-2020 19:36:08 Asia/Jakarta] PHP Warning:  include(): Failed opening '/var/www/html/e-media/_includes/lib_adodb/adodb.inc.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/emea6153/public_html/_includes/DB.class.php on line 5
+[30-Nov-2020 19:36:08 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function ADONewConnection() in /home/emea6153/public_html/_includes/DB.class.php:22
+Stack trace:
+#0 /home/emea6153/public_html/_includes/DB.class.php(16): db->_dbconn()
+#1 /home/emea6153/public_html/_includes/classes/master_media_class.php(11): db->__construct()
+#2 /home/emea6153/public_html/e-media/sharedservice.php(67): mastermedia->mastermedia()
+#3 /home/emea6153/public_html/index.php(329): include('/home/emea6153/...')
+#4 {main}
+  thrown in /home/emea6153/public_html/_includes/DB.class.php on line 22
+[30-Nov-2020 19:37:04 Asia/Jakarta] PHP Warning:  include(/var/www/html/e-media/_includes/lib_adodb/adodb.inc.php): failed to open stream: No such file or directory in /home/emea6153/public_html/_includes/DB.class.php on line 5
+[30-Nov-2020 19:37:04 Asia/Jakarta] PHP Warning:  include(/var/www/html/e-media/_includes/lib_adodb/adodb.inc.php): failed to open stream: No such file or directory in /home/emea6153/public_html/_includes/DB.class.php on line 5
+[30-Nov-2020 19:37:04 Asia/Jakarta] PHP Warning:  include(): Failed opening '/var/www/html/e-media/_includes/lib_adodb/adodb.inc.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/emea6153/public_html/_includes/DB.class.php on line 5
+[30-Nov-2020 19:37:04 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function ADONewConnection() in /home/emea6153/public_html/_includes/DB.class.php:22
+Stack trace:
+#0 /home/emea6153/public_html/_includes/DB.class.php(16): db->_dbconn()
+#1 /home/emea6153/public_html/_includes/classes/master_media_class.php(11): db->__construct()
+#2 /home/emea6153/public_html/e-media/sharedservice.php(67): mastermedia->mastermedia()
+#3 /home/emea6153/public_html/index.php(329): include('/home/emea6153/...')
+#4 {main}
+  thrown in /home/emea6153/public_html/_includes/DB.class.php on line 22
+[30-Nov-2020 19:37:04 Asia/Jakarta] PHP Warning:  include(/var/www/html/e-media/_includes/lib_adodb/adodb.inc.php): failed to open stream: No such file or directory in /home/emea6153/public_html/_includes/DB.class.php on line 5
+[30-Nov-2020 19:37:04 Asia/Jakarta] PHP Warning:  include(/var/www/html/e-media/_includes/lib_adodb/adodb.inc.php): failed to open stream: No such file or directory in /home/emea6153/public_html/_includes/DB.class.php on line 5
+[30-Nov-2020 19:37:04 Asia/Jakarta] PHP Warning:  include(): Failed opening '/var/www/html/e-media/_includes/lib_adodb/adodb.inc.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/emea6153/public_html/_includes/DB.class.php on line 5
+[30-Nov-2020 19:37:04 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function ADONewConnection() in /home/emea6153/public_html/_includes/DB.class.php:22
+Stack trace:
+#0 /home/emea6153/public_html/_includes/DB.class.php(16): db->_dbconn()
+#1 /home/emea6153/public_html/_includes/classes/master_media_class.php(11): db->__construct()
+#2 /home/emea6153/public_html/e-media/sharedservice.php(67): mastermedia->mastermedia()
+#3 /home/emea6153/public_html/index.php(329): include('/home/emea6153/...')
+#4 {main}
+  thrown in /home/emea6153/public_html/_includes/DB.class.php on line 22
+[30-Nov-2020 19:37:11 Asia/Jakarta] PHP Warning:  include(/var/www/html/e-media/_includes/lib_adodb/adodb.inc.php): failed to open stream: No such file or directory in /home/emea6153/public_html/_includes/DB.class.php on line 5
+[30-Nov-2020 19:37:11 Asia/Jakarta] PHP Warning:  include(/var/www/html/e-media/_includes/lib_adodb/adodb.inc.php): failed to open stream: No such file or directory in /home/emea6153/public_html/_includes/DB.class.php on line 5
+[30-Nov-2020 19:37:11 Asia/Jakarta] PHP Warning:  include(): Failed opening '/var/www/html/e-media/_includes/lib_adodb/adodb.inc.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/emea6153/public_html/_includes/DB.class.php on line 5
+[30-Nov-2020 19:37:11 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function ADONewConnection() in /home/emea6153/public_html/_includes/DB.class.php:22
+Stack trace:
+#0 /home/emea6153/public_html/_includes/DB.class.php(16): db->_dbconn()
+#1 /home/emea6153/public_html/_includes/classes/master_media_class.php(11): db->__construct()
+#2 /home/emea6153/public_html/e-media/sharedservice.php(67): mastermedia->mastermedia()
+#3 /home/emea6153/public_html/index.php(329): include('/home/emea6153/...')
+#4 {main}
+  thrown in /home/emea6153/public_html/_includes/DB.class.php on line 22
+[30-Nov-2020 19:45:18 Asia/Jakarta] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; mastermedia has a deprecated constructor in /home/emea6153/public_html/_includes/classes/master_media_class.php on line 7
+[30-Nov-2020 19:45:18 Asia/Jakarta] PHP Warning:  include(/var/www/html/e-media/_includes/lib_adodb/adodb.inc.php): failed to open stream: No such file or directory in /home/emea6153/public_html/_includes/DB.class.php on line 5
+[30-Nov-2020 19:45:18 Asia/Jakarta] PHP Warning:  include(/var/www/html/e-media/_includes/lib_adodb/adodb.inc.php): failed to open stream: No such file or directory in /home/emea6153/public_html/_includes/DB.class.php on line 5
+[30-Nov-2020 19:45:18 Asia/Jakarta] PHP Warning:  include(): Failed opening '/var/www/html/e-media/_includes/lib_adodb/adodb.inc.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/emea6153/public_html/_includes/DB.class.php on line 5
+[30-Nov-2020 19:45:18 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function ADONewConnection() in /home/emea6153/public_html/_includes/DB.class.php:22
+Stack trace:
+#0 /home/emea6153/public_html/_includes/DB.class.php(16): db->_dbconn()
+#1 /home/emea6153/public_html/_includes/classes/master_media_class.php(11): db->__construct()
+#2 /home/emea6153/public_html/e-media/sharedservice.php(67): mastermedia->mastermedia()
+#3 /home/emea6153/public_html/index.php(329): include('/home/emea6153/...')
+#4 {main}
+  thrown in /home/emea6153/public_html/_includes/DB.class.php on line 22
+[30-Nov-2020 19:53:10 Asia/Jakarta] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; mastermedia has a deprecated constructor in /home/emea6153/public_html/_includes/classes/master_media_class.php on line 7
+[30-Nov-2020 19:53:10 Asia/Jakarta] PHP Warning:  include(/var/www/html/e-media/_includes/lib_adodb/adodb.inc.php): failed to open stream: No such file or directory in /home/emea6153/public_html/_includes/DB.class.php on line 5
+[30-Nov-2020 19:53:10 Asia/Jakarta] PHP Warning:  include(/var/www/html/e-media/_includes/lib_adodb/adodb.inc.php): failed to open stream: No such file or directory in /home/emea6153/public_html/_includes/DB.class.php on line 5
+[30-Nov-2020 19:53:10 Asia/Jakarta] PHP Warning:  include(): Failed opening '/var/www/html/e-media/_includes/lib_adodb/adodb.inc.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/emea6153/public_html/_includes/DB.class.php on line 5
+[30-Nov-2020 19:53:10 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function ADONewConnection() in /home/emea6153/public_html/_includes/DB.class.php:22
+Stack trace:
+#0 /home/emea6153/public_html/_includes/DB.class.php(16): db->_dbconn()
+#1 /home/emea6153/public_html/_includes/classes/master_media_class.php(11): db->__construct()
+#2 /home/emea6153/public_html/e-media/sharedservice.php(67): mastermedia->mastermedia()
+#3 /home/emea6153/public_html/index.php(329): include('/home/emea6153/...')
+#4 {main}
+  thrown in /home/emea6153/public_html/_includes/DB.class.php on line 22
+[30-Nov-2020 19:53:40 Asia/Jakarta] PHP Warning:  include(/var/www/html/e-media/_includes/lib_adodb/adodb.inc.php): failed to open stream: No such file or directory in /home/emea6153/public_html/_includes/DB.class.php on line 5
+[30-Nov-2020 19:53:40 Asia/Jakarta] PHP Warning:  include(/var/www/html/e-media/_includes/lib_adodb/adodb.inc.php): failed to open stream: No such file or directory in /home/emea6153/public_html/_includes/DB.class.php on line 5
+[30-Nov-2020 19:53:40 Asia/Jakarta] PHP Warning:  include(): Failed opening '/var/www/html/e-media/_includes/lib_adodb/adodb.inc.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/emea6153/public_html/_includes/DB.class.php on line 5
+[30-Nov-2020 19:53:40 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function ADONewConnection() in /home/emea6153/public_html/_includes/DB.class.php:22
+Stack trace:
+#0 /home/emea6153/public_html/_includes/DB.class.php(16): db->_dbconn()
+#1 /home/emea6153/public_html/_includes/classes/master_media_class.php(11): db->__construct()
+#2 /home/emea6153/public_html/e-media/sharedservice.php(67): mastermedia->mastermedia()
+#3 /home/emea6153/public_html/index.php(329): include('/home/emea6153/...')
+#4 {main}
+  thrown in /home/emea6153/public_html/_includes/DB.class.php on line 22
+[30-Nov-2020 19:55:38 Asia/Jakarta] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; mastermedia has a deprecated constructor in /home/emea6153/public_html/_includes/classes/master_media_class.php on line 7
+[30-Nov-2020 19:55:38 Asia/Jakarta] PHP Warning:  include(/var/www/html/e-media/_includes/lib_adodb/adodb.inc.php): failed to open stream: No such file or directory in /home/emea6153/public_html/_includes/DB.class.php on line 5
+[30-Nov-2020 19:55:38 Asia/Jakarta] PHP Warning:  include(/var/www/html/e-media/_includes/lib_adodb/adodb.inc.php): failed to open stream: No such file or directory in /home/emea6153/public_html/_includes/DB.class.php on line 5
+[30-Nov-2020 19:55:38 Asia/Jakarta] PHP Warning:  include(): Failed opening '/var/www/html/e-media/_includes/lib_adodb/adodb.inc.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/emea6153/public_html/_includes/DB.class.php on line 5
+[30-Nov-2020 19:55:38 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function ADONewConnection() in /home/emea6153/public_html/_includes/DB.class.php:22
+Stack trace:
+#0 /home/emea6153/public_html/_includes/DB.class.php(16): db->_dbconn()
+#1 /home/emea6153/public_html/_includes/classes/master_media_class.php(11): db->__construct()
+#2 /home/emea6153/public_html/e-media/sharedservice.php(67): mastermedia->mastermedia()
+#3 /home/emea6153/public_html/index.php(329): include('/home/emea6153/...')
+#4 {main}
+  thrown in /home/emea6153/public_html/_includes/DB.class.php on line 22
+[30-Nov-2020 19:57:02 Asia/Jakarta] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; mastermedia has a deprecated constructor in /home/emea6153/public_html/_includes/classes/master_media_class.php on line 7
+[30-Nov-2020 19:57:02 Asia/Jakarta] PHP Warning:  include(/var/www/html/e-media/_includes/lib_adodb/adodb.inc.php): failed to open stream: No such file or directory in /home/emea6153/public_html/_includes/DB.class.php on line 5
+[30-Nov-2020 19:57:02 Asia/Jakarta] PHP Warning:  include(/var/www/html/e-media/_includes/lib_adodb/adodb.inc.php): failed to open stream: No such file or directory in /home/emea6153/public_html/_includes/DB.class.php on line 5
+[30-Nov-2020 19:57:02 Asia/Jakarta] PHP Warning:  include(): Failed opening '/var/www/html/e-media/_includes/lib_adodb/adodb.inc.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/emea6153/public_html/_includes/DB.class.php on line 5
+[30-Nov-2020 19:57:02 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function ADONewConnection() in /home/emea6153/public_html/_includes/DB.class.php:22
+Stack trace:
+#0 /home/emea6153/public_html/_includes/DB.class.php(16): db->_dbconn()
+#1 /home/emea6153/public_html/_includes/classes/master_media_class.php(11): db->__construct()
+#2 /home/emea6153/public_html/e-media/sharedservice.php(67): mastermedia->mastermedia()
+#3 /home/emea6153/public_html/index.php(329): include('/home/emea6153/...')
+#4 {main}
+  thrown in /home/emea6153/public_html/_includes/DB.class.php on line 22
+[30-Nov-2020 19:58:17 Asia/Jakarta] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; mastermedia has a deprecated constructor in /home/emea6153/public_html/_includes/classes/master_media_class.php on line 7
+[30-Nov-2020 19:58:17 Asia/Jakarta] PHP Warning:  include(/var/www/html/e-media/_includes/lib_adodb/adodb.inc.php): failed to open stream: No such file or directory in /home/emea6153/public_html/_includes/DB.class.php on line 5
+[30-Nov-2020 19:58:17 Asia/Jakarta] PHP Warning:  include(/var/www/html/e-media/_includes/lib_adodb/adodb.inc.php): failed to open stream: No such file or directory in /home/emea6153/public_html/_includes/DB.class.php on line 5
+[30-Nov-2020 19:58:17 Asia/Jakarta] PHP Warning:  include(): Failed opening '/var/www/html/e-media/_includes/lib_adodb/adodb.inc.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/emea6153/public_html/_includes/DB.class.php on line 5
+[30-Nov-2020 19:58:17 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function ADONewConnection() in /home/emea6153/public_html/_includes/DB.class.php:22
+Stack trace:
+#0 /home/emea6153/public_html/_includes/DB.class.php(16): db->_dbconn()
+#1 /home/emea6153/public_html/_includes/classes/master_media_class.php(11): db->__construct()
+#2 /home/emea6153/public_html/e-media/sharedservice.php(67): mastermedia->mastermedia()
+#3 /home/emea6153/public_html/index.php(329): include('/home/emea6153/...')
+#4 {main}
+  thrown in /home/emea6153/public_html/_includes/DB.class.php on line 22
+[30-Nov-2020 20:31:28 Asia/Jakarta] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; mastermedia has a deprecated constructor in /home/emea6153/public_html/_includes/classes/master_media_class.php on line 7
+[30-Nov-2020 20:31:28 Asia/Jakarta] PHP Warning:  include(/var/www/html/e-media/_includes/lib_adodb/adodb.inc.php): failed to open stream: No such file or directory in /home/emea6153/public_html/_includes/DB.class.php on line 5
+[30-Nov-2020 20:31:28 Asia/Jakarta] PHP Warning:  include(/var/www/html/e-media/_includes/lib_adodb/adodb.inc.php): failed to open stream: No such file or directory in /home/emea6153/public_html/_includes/DB.class.php on line 5
+[30-Nov-2020 20:31:28 Asia/Jakarta] PHP Warning:  include(): Failed opening '/var/www/html/e-media/_includes/lib_adodb/adodb.inc.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/emea6153/public_html/_includes/DB.class.php on line 5
+[30-Nov-2020 20:31:28 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function ADONewConnection() in /home/emea6153/public_html/_includes/DB.class.php:22
+Stack trace:
+#0 /home/emea6153/public_html/_includes/DB.class.php(16): db->_dbconn()
+#1 /home/emea6153/public_html/_includes/classes/master_media_class.php(11): db->__construct()
+#2 /home/emea6153/public_html/e-media/sharedservice.php(67): mastermedia->mastermedia()
+#3 /home/emea6153/public_html/index.php(329): include('/home/emea6153/...')
+#4 {main}
+  thrown in /home/emea6153/public_html/_includes/DB.class.php on line 22
+[30-Nov-2020 21:44:44 Asia/Jakarta] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; mastermedia has a deprecated constructor in /home/emea6153/public_html/_includes/classes/master_media_class.php on line 7
+[30-Nov-2020 21:44:44 Asia/Jakarta] PHP Warning:  include(/var/www/html/e-media/_includes/lib_adodb/adodb.inc.php): failed to open stream: No such file or directory in /home/emea6153/public_html/_includes/DB.class.php on line 5
+[30-Nov-2020 21:44:44 Asia/Jakarta] PHP Warning:  include(/var/www/html/e-media/_includes/lib_adodb/adodb.inc.php): failed to open stream: No such file or directory in /home/emea6153/public_html/_includes/DB.class.php on line 5
+[30-Nov-2020 21:44:44 Asia/Jakarta] PHP Warning:  include(): Failed opening '/var/www/html/e-media/_includes/lib_adodb/adodb.inc.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/emea6153/public_html/_includes/DB.class.php on line 5
+[30-Nov-2020 21:44:44 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function ADONewConnection() in /home/emea6153/public_html/_includes/DB.class.php:22
+Stack trace:
+#0 /home/emea6153/public_html/_includes/DB.class.php(16): db->_dbconn()
+#1 /home/emea6153/public_html/_includes/classes/master_media_class.php(11): db->__construct()
+#2 /home/emea6153/public_html/e-media/sharedservice.php(67): mastermedia->mastermedia()
+#3 /home/emea6153/public_html/index.php(329): include('/home/emea6153/...')
+#4 {main}
+  thrown in /home/emea6153/public_html/_includes/DB.class.php on line 22
+[30-Nov-2020 21:44:59 Asia/Jakarta] PHP Warning:  include(/var/www/html/e-media/_includes/lib_adodb/adodb.inc.php): failed to open stream: No such file or directory in /home/emea6153/public_html/_includes/DB.class.php on line 5
+[30-Nov-2020 21:44:59 Asia/Jakarta] PHP Warning:  include(/var/www/html/e-media/_includes/lib_adodb/adodb.inc.php): failed to open stream: No such file or directory in /home/emea6153/public_html/_includes/DB.class.php on line 5
+[30-Nov-2020 21:44:59 Asia/Jakarta] PHP Warning:  include(): Failed opening '/var/www/html/e-media/_includes/lib_adodb/adodb.inc.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/emea6153/public_html/_includes/DB.class.php on line 5
+[30-Nov-2020 21:44:59 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function ADONewConnection() in /home/emea6153/public_html/_includes/DB.class.php:22
+Stack trace:
+#0 /home/emea6153/public_html/_includes/DB.class.php(16): db->_dbconn()
+#1 /home/emea6153/public_html/_includes/classes/master_media_class.php(11): db->__construct()
+#2 /home/emea6153/public_html/e-media/sharedservice.php(67): mastermedia->mastermedia()
+#3 /home/emea6153/public_html/index.php(329): include('/home/emea6153/...')
+#4 {main}
+  thrown in /home/emea6153/public_html/_includes/DB.class.php on line 22
+[30-Nov-2020 22:08:11 Asia/Jakarta] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; mastermedia has a deprecated constructor in /home/emea6153/public_html/_includes/classes/master_media_class.php on line 7
+[30-Nov-2020 22:08:11 Asia/Jakarta] PHP Warning:  include(/var/www/html/e-media/_includes/lib_adodb/adodb.inc.php): failed to open stream: No such file or directory in /home/emea6153/public_html/_includes/DB.class.php on line 5
+[30-Nov-2020 22:08:11 Asia/Jakarta] PHP Warning:  include(/var/www/html/e-media/_includes/lib_adodb/adodb.inc.php): failed to open stream: No such file or directory in /home/emea6153/public_html/_includes/DB.class.php on line 5
+[30-Nov-2020 22:08:11 Asia/Jakarta] PHP Warning:  include(): Failed opening '/var/www/html/e-media/_includes/lib_adodb/adodb.inc.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/emea6153/public_html/_includes/DB.class.php on line 5
+[30-Nov-2020 22:08:11 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function ADONewConnection() in /home/emea6153/public_html/_includes/DB.class.php:22
+Stack trace:
+#0 /home/emea6153/public_html/_includes/DB.class.php(16): db->_dbconn()
+#1 /home/emea6153/public_html/_includes/classes/master_media_class.php(11): db->__construct()
+#2 /home/emea6153/public_html/e-media/sharedservice.php(67): mastermedia->mastermedia()
+#3 /home/emea6153/public_html/index.php(329): include('/home/emea6153/...')
+#4 {main}
+  thrown in /home/emea6153/public_html/_includes/DB.class.php on line 22
+[30-Nov-2020 22:08:13 Asia/Jakarta] PHP Warning:  include(/var/www/html/e-media/_includes/lib_adodb/adodb.inc.php): failed to open stream: No such file or directory in /home/emea6153/public_html/_includes/DB.class.php on line 5
+[30-Nov-2020 22:08:13 Asia/Jakarta] PHP Warning:  include(/var/www/html/e-media/_includes/lib_adodb/adodb.inc.php): failed to open stream: No such file or directory in /home/emea6153/public_html/_includes/DB.class.php on line 5
+[30-Nov-2020 22:08:13 Asia/Jakarta] PHP Warning:  include(): Failed opening '/var/www/html/e-media/_includes/lib_adodb/adodb.inc.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/emea6153/public_html/_includes/DB.class.php on line 5
+[30-Nov-2020 22:08:13 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function ADONewConnection() in /home/emea6153/public_html/_includes/DB.class.php:22
+Stack trace:
+#0 /home/emea6153/public_html/_includes/DB.class.php(16): db->_dbconn()
+#1 /home/emea6153/public_html/_includes/classes/master_media_class.php(11): db->__construct()
+#2 /home/emea6153/public_html/e-media/sharedservice.php(67): mastermedia->mastermedia()
+#3 /home/emea6153/public_html/index.php(329): include('/home/emea6153/...')
+#4 {main}
+  thrown in /home/emea6153/public_html/_includes/DB.class.php on line 22
+[30-Nov-2020 22:20:15 Asia/Jakarta] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; mastermedia has a deprecated constructor in /home/emea6153/public_html/_includes/classes/master_media_class.php on line 7
+[30-Nov-2020 22:20:15 Asia/Jakarta] PHP Warning:  include(/var/www/html/e-media/_includes/lib_adodb/adodb.inc.php): failed to open stream: No such file or directory in /home/emea6153/public_html/_includes/DB.class.php on line 5
+[30-Nov-2020 22:20:15 Asia/Jakarta] PHP Warning:  include(/var/www/html/e-media/_includes/lib_adodb/adodb.inc.php): failed to open stream: No such file or directory in /home/emea6153/public_html/_includes/DB.class.php on line 5
+[30-Nov-2020 22:20:15 Asia/Jakarta] PHP Warning:  include(): Failed opening '/var/www/html/e-media/_includes/lib_adodb/adodb.inc.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/emea6153/public_html/_includes/DB.class.php on line 5
+[30-Nov-2020 22:20:15 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function ADONewConnection() in /home/emea6153/public_html/_includes/DB.class.php:22
+Stack trace:
+#0 /home/emea6153/public_html/_includes/DB.class.php(16): db->_dbconn()
+#1 /home/emea6153/public_html/_includes/classes/master_media_class.php(11): db->__construct()
+#2 /home/emea6153/public_html/e-media/sharedservice.php(67): mastermedia->mastermedia()
+#3 /home/emea6153/public_html/index.php(329): include('/home/emea6153/...')
+#4 {main}
+  thrown in /home/emea6153/public_html/_includes/DB.class.php on line 22
+[30-Nov-2020 22:20:16 Asia/Jakarta] PHP Warning:  include(/var/www/html/e-media/_includes/lib_adodb/adodb.inc.php): failed to open stream: No such file or directory in /home/emea6153/public_html/_includes/DB.class.php on line 5
+[30-Nov-2020 22:20:16 Asia/Jakarta] PHP Warning:  include(/var/www/html/e-media/_includes/lib_adodb/adodb.inc.php): failed to open stream: No such file or directory in /home/emea6153/public_html/_includes/DB.class.php on line 5
+[30-Nov-2020 22:20:16 Asia/Jakarta] PHP Warning:  include(): Failed opening '/var/www/html/e-media/_includes/lib_adodb/adodb.inc.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/emea6153/public_html/_includes/DB.class.php on line 5
+[30-Nov-2020 22:20:16 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function ADONewConnection() in /home/emea6153/public_html/_includes/DB.class.php:22
+Stack trace:
+#0 /home/emea6153/public_html/_includes/DB.class.php(16): db->_dbconn()
+#1 /home/emea6153/public_html/_includes/classes/master_media_class.php(11): db->__construct()
+#2 /home/emea6153/public_html/e-media/sharedservice.php(67): mastermedia->mastermedia()
+#3 /home/emea6153/public_html/index.php(329): include('/home/emea6153/...')
+#4 {main}
+  thrown in /home/emea6153/public_html/_includes/DB.class.php on line 22
+[30-Nov-2020 22:20:23 Asia/Jakarta] PHP Warning:  include(/var/www/html/e-media/_includes/lib_adodb/adodb.inc.php): failed to open stream: No such file or directory in /home/emea6153/public_html/_includes/DB.class.php on line 5
+[30-Nov-2020 22:20:23 Asia/Jakarta] PHP Warning:  include(/var/www/html/e-media/_includes/lib_adodb/adodb.inc.php): failed to open stream: No such file or directory in /home/emea6153/public_html/_includes/DB.class.php on line 5
+[30-Nov-2020 22:20:23 Asia/Jakarta] PHP Warning:  include(): Failed opening '/var/www/html/e-media/_includes/lib_adodb/adodb.inc.php' for inclusion (include_path='.:/opt/alt/php55/usr/share/pear:/opt/alt/php55/usr/share/php') in /home/emea6153/public_html/_includes/DB.class.php on line 5
+[30-Nov-2020 22:20:23 Asia/Jakarta] PHP Fatal error:  Call to undefined function ADONewConnection() in /home/emea6153/public_html/_includes/DB.class.php on line 22
+[30-Nov-2020 22:26:49 Asia/Jakarta] PHP Warning:  include(/var/www/html/e-media/_includes/lib_adodb/adodb.inc.php): failed to open stream: No such file or directory in /home/emea6153/public_html/_includes/DB.class.php on line 5
+[30-Nov-2020 22:26:49 Asia/Jakarta] PHP Warning:  include(/var/www/html/e-media/_includes/lib_adodb/adodb.inc.php): failed to open stream: No such file or directory in /home/emea6153/public_html/_includes/DB.class.php on line 5
+[30-Nov-2020 22:26:49 Asia/Jakarta] PHP Warning:  include(): Failed opening '/var/www/html/e-media/_includes/lib_adodb/adodb.inc.php' for inclusion (include_path='.:/opt/alt/php55/usr/share/pear:/opt/alt/php55/usr/share/php') in /home/emea6153/public_html/_includes/DB.class.php on line 5
+[30-Nov-2020 22:26:49 Asia/Jakarta] PHP Fatal error:  Call to undefined function ADONewConnection() in /home/emea6153/public_html/_includes/DB.class.php on line 22
+[30-Nov-2020 22:26:51 Asia/Jakarta] PHP Warning:  include(/var/www/html/e-media/_includes/lib_adodb/adodb.inc.php): failed to open stream: No such file or directory in /home/emea6153/public_html/_includes/DB.class.php on line 5
+[30-Nov-2020 22:26:51 Asia/Jakarta] PHP Warning:  include(/var/www/html/e-media/_includes/lib_adodb/adodb.inc.php): failed to open stream: No such file or directory in /home/emea6153/public_html/_includes/DB.class.php on line 5
+[30-Nov-2020 22:26:51 Asia/Jakarta] PHP Warning:  include(): Failed opening '/var/www/html/e-media/_includes/lib_adodb/adodb.inc.php' for inclusion (include_path='.:/opt/alt/php55/usr/share/pear:/opt/alt/php55/usr/share/php') in /home/emea6153/public_html/_includes/DB.class.php on line 5
+[30-Nov-2020 22:26:51 Asia/Jakarta] PHP Fatal error:  Call to undefined function ADONewConnection() in /home/emea6153/public_html/_includes/DB.class.php on line 22
+[30-Nov-2020 22:46:49 Asia/Jakarta] PHP Warning:  include(/var/www/html/e-media/_includes/lib_adodb/adodb.inc.php): failed to open stream: No such file or directory in /home/emea6153/public_html/_includes/DB.class.php on line 5
+[30-Nov-2020 22:46:49 Asia/Jakarta] PHP Warning:  include(/var/www/html/e-media/_includes/lib_adodb/adodb.inc.php): failed to open stream: No such file or directory in /home/emea6153/public_html/_includes/DB.class.php on line 5
+[30-Nov-2020 22:46:49 Asia/Jakarta] PHP Warning:  include(): Failed opening '/var/www/html/e-media/_includes/lib_adodb/adodb.inc.php' for inclusion (include_path='.:/opt/alt/php55/usr/share/pear:/opt/alt/php55/usr/share/php') in /home/emea6153/public_html/_includes/DB.class.php on line 5
+[30-Nov-2020 22:46:49 Asia/Jakarta] PHP Fatal error:  Call to undefined function ADONewConnection() in /home/emea6153/public_html/_includes/DB.class.php on line 22
+[30-Nov-2020 22:46:50 Asia/Jakarta] PHP Warning:  include(/var/www/html/e-media/_includes/lib_adodb/adodb.inc.php): failed to open stream: No such file or directory in /home/emea6153/public_html/_includes/DB.class.php on line 5
+[30-Nov-2020 22:46:50 Asia/Jakarta] PHP Warning:  include(/var/www/html/e-media/_includes/lib_adodb/adodb.inc.php): failed to open stream: No such file or directory in /home/emea6153/public_html/_includes/DB.class.php on line 5
+[30-Nov-2020 22:46:50 Asia/Jakarta] PHP Warning:  include(): Failed opening '/var/www/html/e-media/_includes/lib_adodb/adodb.inc.php' for inclusion (include_path='.:/opt/alt/php55/usr/share/pear:/opt/alt/php55/usr/share/php') in /home/emea6153/public_html/_includes/DB.class.php on line 5
+[30-Nov-2020 22:46:50 Asia/Jakarta] PHP Fatal error:  Call to undefined function ADONewConnection() in /home/emea6153/public_html/_includes/DB.class.php on line 22
+[30-Nov-2020 22:48:06 Asia/Jakarta] PHP Warning:  include(/var/www/html/e-media/_includes/lib_adodb/adodb.inc.php): failed to open stream: No such file or directory in /home/emea6153/public_html/_includes/DB.class.php on line 5
+[30-Nov-2020 22:48:06 Asia/Jakarta] PHP Warning:  include(/var/www/html/e-media/_includes/lib_adodb/adodb.inc.php): failed to open stream: No such file or directory in /home/emea6153/public_html/_includes/DB.class.php on line 5
+[30-Nov-2020 22:48:06 Asia/Jakarta] PHP Warning:  include(): Failed opening '/var/www/html/e-media/_includes/lib_adodb/adodb.inc.php' for inclusion (include_path='.:/opt/alt/php55/usr/share/pear:/opt/alt/php55/usr/share/php') in /home/emea6153/public_html/_includes/DB.class.php on line 5
+[30-Nov-2020 22:48:06 Asia/Jakarta] PHP Fatal error:  Call to undefined function ADONewConnection() in /home/emea6153/public_html/_includes/DB.class.php on line 22
+[30-Nov-2020 22:48:53 Asia/Jakarta] PHP Warning:  include(/var/www/html/e-media/_includes/lib_adodb/adodb.inc.php): failed to open stream: No such file or directory in /home/emea6153/public_html/_includes/DB.class.php on line 5
+[30-Nov-2020 22:48:53 Asia/Jakarta] PHP Warning:  include(/var/www/html/e-media/_includes/lib_adodb/adodb.inc.php): failed to open stream: No such file or directory in /home/emea6153/public_html/_includes/DB.class.php on line 5
+[30-Nov-2020 22:48:53 Asia/Jakarta] PHP Warning:  include(): Failed opening '/var/www/html/e-media/_includes/lib_adodb/adodb.inc.php' for inclusion (include_path='.:/opt/alt/php55/usr/share/pear:/opt/alt/php55/usr/share/php') in /home/emea6153/public_html/_includes/DB.class.php on line 5
+[30-Nov-2020 22:48:53 Asia/Jakarta] PHP Fatal error:  Call to undefined function ADONewConnection() in /home/emea6153/public_html/_includes/DB.class.php on line 22
+[30-Nov-2020 22:48:55 Asia/Jakarta] PHP Warning:  include(/var/www/html/e-media/_includes/lib_adodb/adodb.inc.php): failed to open stream: No such file or directory in /home/emea6153/public_html/_includes/DB.class.php on line 5
+[30-Nov-2020 22:48:55 Asia/Jakarta] PHP Warning:  include(/var/www/html/e-media/_includes/lib_adodb/adodb.inc.php): failed to open stream: No such file or directory in /home/emea6153/public_html/_includes/DB.class.php on line 5
+[30-Nov-2020 22:48:55 Asia/Jakarta] PHP Warning:  include(): Failed opening '/var/www/html/e-media/_includes/lib_adodb/adodb.inc.php' for inclusion (include_path='.:/opt/alt/php55/usr/share/pear:/opt/alt/php55/usr/share/php') in /home/emea6153/public_html/_includes/DB.class.php on line 5
+[30-Nov-2020 22:48:55 Asia/Jakarta] PHP Fatal error:  Call to undefined function ADONewConnection() in /home/emea6153/public_html/_includes/DB.class.php on line 22
+[30-Nov-2020 22:58:44 Asia/Jakarta] PHP Warning:  include_once(_includes/classes/master_media_class.php): failed to open stream: No such file or directory in /home/emea6153/public_html/e-media/sharedservice.php on line 66
+[30-Nov-2020 22:58:44 Asia/Jakarta] PHP Warning:  include_once(): Failed opening '_includes/classes/master_media_class.php' for inclusion (include_path='.:/opt/alt/php55/usr/share/pear:/opt/alt/php55/usr/share/php') in /home/emea6153/public_html/e-media/sharedservice.php on line 66
+[30-Nov-2020 22:58:44 Asia/Jakarta] PHP Fatal error:  Class 'mastermedia' not found in /home/emea6153/public_html/e-media/sharedservice.php on line 67
+[30-Nov-2020 22:58:47 Asia/Jakarta] PHP Warning:  include_once(_includes/classes/master_media_class.php): failed to open stream: No such file or directory in /home/emea6153/public_html/e-media/sharedservice.php on line 66
+[30-Nov-2020 22:58:47 Asia/Jakarta] PHP Warning:  include_once(): Failed opening '_includes/classes/master_media_class.php' for inclusion (include_path='.:/opt/alt/php55/usr/share/pear:/opt/alt/php55/usr/share/php') in /home/emea6153/public_html/e-media/sharedservice.php on line 66
+[30-Nov-2020 22:58:47 Asia/Jakarta] PHP Fatal error:  Class 'mastermedia' not found in /home/emea6153/public_html/e-media/sharedservice.php on line 67
+[30-Nov-2020 22:59:19 Asia/Jakarta] PHP Warning:  include(/var/www/html/e-media/_includes/lib_adodb/adodb.inc.php): failed to open stream: No such file or directory in /home/emea6153/public_html/_includes/DB.class.php on line 5
+[30-Nov-2020 22:59:19 Asia/Jakarta] PHP Warning:  include(/var/www/html/e-media/_includes/lib_adodb/adodb.inc.php): failed to open stream: No such file or directory in /home/emea6153/public_html/_includes/DB.class.php on line 5
+[30-Nov-2020 22:59:19 Asia/Jakarta] PHP Warning:  include(): Failed opening '/var/www/html/e-media/_includes/lib_adodb/adodb.inc.php' for inclusion (include_path='.:/opt/alt/php55/usr/share/pear:/opt/alt/php55/usr/share/php') in /home/emea6153/public_html/_includes/DB.class.php on line 5
+[30-Nov-2020 22:59:19 Asia/Jakarta] PHP Fatal error:  Call to undefined function ADONewConnection() in /home/emea6153/public_html/_includes/DB.class.php on line 22
+[30-Nov-2020 22:59:20 Asia/Jakarta] PHP Warning:  include(/var/www/html/e-media/_includes/lib_adodb/adodb.inc.php): failed to open stream: No such file or directory in /home/emea6153/public_html/_includes/DB.class.php on line 5
+[30-Nov-2020 22:59:20 Asia/Jakarta] PHP Warning:  include(/var/www/html/e-media/_includes/lib_adodb/adodb.inc.php): failed to open stream: No such file or directory in /home/emea6153/public_html/_includes/DB.class.php on line 5
+[30-Nov-2020 22:59:20 Asia/Jakarta] PHP Warning:  include(): Failed opening '/var/www/html/e-media/_includes/lib_adodb/adodb.inc.php' for inclusion (include_path='.:/opt/alt/php55/usr/share/pear:/opt/alt/php55/usr/share/php') in /home/emea6153/public_html/_includes/DB.class.php on line 5
+[30-Nov-2020 22:59:20 Asia/Jakarta] PHP Fatal error:  Call to undefined function ADONewConnection() in /home/emea6153/public_html/_includes/DB.class.php on line 22
+[30-Nov-2020 22:59:43 Asia/Jakarta] PHP Warning:  include(/var/www/html/e-media/_includes/lib_adodb/adodb.inc.php): failed to open stream: No such file or directory in /home/emea6153/public_html/_includes/DB.class.php on line 5
+[30-Nov-2020 22:59:43 Asia/Jakarta] PHP Warning:  include(/var/www/html/e-media/_includes/lib_adodb/adodb.inc.php): failed to open stream: No such file or directory in /home/emea6153/public_html/_includes/DB.class.php on line 5
+[30-Nov-2020 22:59:43 Asia/Jakarta] PHP Warning:  include(): Failed opening '/var/www/html/e-media/_includes/lib_adodb/adodb.inc.php' for inclusion (include_path='.:/opt/alt/php55/usr/share/pear:/opt/alt/php55/usr/share/php') in /home/emea6153/public_html/_includes/DB.class.php on line 5
+[30-Nov-2020 22:59:43 Asia/Jakarta] PHP Fatal error:  Call to undefined function ADONewConnection() in /home/emea6153/public_html/_includes/DB.class.php on line 22
+[30-Nov-2020 22:59:43 Asia/Jakarta] PHP Warning:  include(/var/www/html/e-media/_includes/lib_adodb/adodb.inc.php): failed to open stream: No such file or directory in /home/emea6153/public_html/_includes/DB.class.php on line 5
+[30-Nov-2020 22:59:43 Asia/Jakarta] PHP Warning:  include(/var/www/html/e-media/_includes/lib_adodb/adodb.inc.php): failed to open stream: No such file or directory in /home/emea6153/public_html/_includes/DB.class.php on line 5
+[30-Nov-2020 22:59:43 Asia/Jakarta] PHP Warning:  include(): Failed opening '/var/www/html/e-media/_includes/lib_adodb/adodb.inc.php' for inclusion (include_path='.:/opt/alt/php55/usr/share/pear:/opt/alt/php55/usr/share/php') in /home/emea6153/public_html/_includes/DB.class.php on line 5
+[30-Nov-2020 22:59:43 Asia/Jakarta] PHP Fatal error:  Call to undefined function ADONewConnection() in /home/emea6153/public_html/_includes/DB.class.php on line 22
+[30-Nov-2020 22:59:44 Asia/Jakarta] PHP Warning:  include(/var/www/html/e-media/_includes/lib_adodb/adodb.inc.php): failed to open stream: No such file or directory in /home/emea6153/public_html/_includes/DB.class.php on line 5
+[30-Nov-2020 22:59:44 Asia/Jakarta] PHP Warning:  include(/var/www/html/e-media/_includes/lib_adodb/adodb.inc.php): failed to open stream: No such file or directory in /home/emea6153/public_html/_includes/DB.class.php on line 5
+[30-Nov-2020 22:59:44 Asia/Jakarta] PHP Warning:  include(): Failed opening '/var/www/html/e-media/_includes/lib_adodb/adodb.inc.php' for inclusion (include_path='.:/opt/alt/php55/usr/share/pear:/opt/alt/php55/usr/share/php') in /home/emea6153/public_html/_includes/DB.class.php on line 5
+[30-Nov-2020 22:59:44 Asia/Jakarta] PHP Fatal error:  Call to undefined function ADONewConnection() in /home/emea6153/public_html/_includes/DB.class.php on line 22
+[30-Nov-2020 22:59:44 Asia/Jakarta] PHP Warning:  include(/var/www/html/e-media/_includes/lib_adodb/adodb.inc.php): failed to open stream: No such file or directory in /home/emea6153/public_html/_includes/DB.class.php on line 5
+[30-Nov-2020 22:59:44 Asia/Jakarta] PHP Warning:  include(/var/www/html/e-media/_includes/lib_adodb/adodb.inc.php): failed to open stream: No such file or directory in /home/emea6153/public_html/_includes/DB.class.php on line 5
+[30-Nov-2020 22:59:44 Asia/Jakarta] PHP Warning:  include(): Failed opening '/var/www/html/e-media/_includes/lib_adodb/adodb.inc.php' for inclusion (include_path='.:/opt/alt/php55/usr/share/pear:/opt/alt/php55/usr/share/php') in /home/emea6153/public_html/_includes/DB.class.php on line 5
+[30-Nov-2020 22:59:44 Asia/Jakarta] PHP Fatal error:  Call to undefined function ADONewConnection() in /home/emea6153/public_html/_includes/DB.class.php on line 22
+[30-Nov-2020 22:59:44 Asia/Jakarta] PHP Warning:  include(/var/www/html/e-media/_includes/lib_adodb/adodb.inc.php): failed to open stream: No such file or directory in /home/emea6153/public_html/_includes/DB.class.php on line 5
+[30-Nov-2020 22:59:44 Asia/Jakarta] PHP Warning:  include(/var/www/html/e-media/_includes/lib_adodb/adodb.inc.php): failed to open stream: No such file or directory in /home/emea6153/public_html/_includes/DB.class.php on line 5
+[30-Nov-2020 22:59:44 Asia/Jakarta] PHP Warning:  include(): Failed opening '/var/www/html/e-media/_includes/lib_adodb/adodb.inc.php' for inclusion (include_path='.:/opt/alt/php55/usr/share/pear:/opt/alt/php55/usr/share/php') in /home/emea6153/public_html/_includes/DB.class.php on line 5
+[30-Nov-2020 22:59:44 Asia/Jakarta] PHP Fatal error:  Call to undefined function ADONewConnection() in /home/emea6153/public_html/_includes/DB.class.php on line 22
+[30-Nov-2020 22:59:44 Asia/Jakarta] PHP Warning:  include(/var/www/html/e-media/_includes/lib_adodb/adodb.inc.php): failed to open stream: No such file or directory in /home/emea6153/public_html/_includes/DB.class.php on line 5
+[30-Nov-2020 22:59:44 Asia/Jakarta] PHP Warning:  include(/var/www/html/e-media/_includes/lib_adodb/adodb.inc.php): failed to open stream: No such file or directory in /home/emea6153/public_html/_includes/DB.class.php on line 5
+[30-Nov-2020 22:59:44 Asia/Jakarta] PHP Warning:  include(): Failed opening '/var/www/html/e-media/_includes/lib_adodb/adodb.inc.php' for inclusion (include_path='.:/opt/alt/php55/usr/share/pear:/opt/alt/php55/usr/share/php') in /home/emea6153/public_html/_includes/DB.class.php on line 5
+[30-Nov-2020 22:59:44 Asia/Jakarta] PHP Fatal error:  Call to undefined function ADONewConnection() in /home/emea6153/public_html/_includes/DB.class.php on line 22
+[30-Nov-2020 23:01:18 Asia/Jakarta] PHP Warning:  include(/var/www/html/e-media/_includes/lib_adodb/adodb.inc.php): failed to open stream: No such file or directory in /home/emea6153/public_html/_includes/DB.class.php on line 5
+[30-Nov-2020 23:01:18 Asia/Jakarta] PHP Warning:  include(/var/www/html/e-media/_includes/lib_adodb/adodb.inc.php): failed to open stream: No such file or directory in /home/emea6153/public_html/_includes/DB.class.php on line 5
+[30-Nov-2020 23:01:18 Asia/Jakarta] PHP Warning:  include(): Failed opening '/var/www/html/e-media/_includes/lib_adodb/adodb.inc.php' for inclusion (include_path='.:/opt/alt/php55/usr/share/pear:/opt/alt/php55/usr/share/php') in /home/emea6153/public_html/_includes/DB.class.php on line 5
+[30-Nov-2020 23:01:18 Asia/Jakarta] PHP Fatal error:  Call to undefined function ADONewConnection() in /home/emea6153/public_html/_includes/DB.class.php on line 22
+[30-Nov-2020 23:01:19 Asia/Jakarta] PHP Warning:  include(/var/www/html/e-media/_includes/lib_adodb/adodb.inc.php): failed to open stream: No such file or directory in /home/emea6153/public_html/_includes/DB.class.php on line 5
+[30-Nov-2020 23:01:19 Asia/Jakarta] PHP Warning:  include(/var/www/html/e-media/_includes/lib_adodb/adodb.inc.php): failed to open stream: No such file or directory in /home/emea6153/public_html/_includes/DB.class.php on line 5
+[30-Nov-2020 23:01:19 Asia/Jakarta] PHP Warning:  include(): Failed opening '/var/www/html/e-media/_includes/lib_adodb/adodb.inc.php' for inclusion (include_path='.:/opt/alt/php55/usr/share/pear:/opt/alt/php55/usr/share/php') in /home/emea6153/public_html/_includes/DB.class.php on line 5
+[30-Nov-2020 23:01:19 Asia/Jakarta] PHP Fatal error:  Call to undefined function ADONewConnection() in /home/emea6153/public_html/_includes/DB.class.php on line 22
+[30-Nov-2020 23:01:20 Asia/Jakarta] PHP Warning:  include(/var/www/html/e-media/_includes/lib_adodb/adodb.inc.php): failed to open stream: No such file or directory in /home/emea6153/public_html/_includes/DB.class.php on line 5
+[30-Nov-2020 23:01:20 Asia/Jakarta] PHP Warning:  include(/var/www/html/e-media/_includes/lib_adodb/adodb.inc.php): failed to open stream: No such file or directory in /home/emea6153/public_html/_includes/DB.class.php on line 5
+[30-Nov-2020 23:01:20 Asia/Jakarta] PHP Warning:  include(): Failed opening '/var/www/html/e-media/_includes/lib_adodb/adodb.inc.php' for inclusion (include_path='.:/opt/alt/php55/usr/share/pear:/opt/alt/php55/usr/share/php') in /home/emea6153/public_html/_includes/DB.class.php on line 5
+[30-Nov-2020 23:01:20 Asia/Jakarta] PHP Fatal error:  Call to undefined function ADONewConnection() in /home/emea6153/public_html/_includes/DB.class.php on line 22
+[30-Nov-2020 23:01:20 Asia/Jakarta] PHP Warning:  include(/var/www/html/e-media/_includes/lib_adodb/adodb.inc.php): failed to open stream: No such file or directory in /home/emea6153/public_html/_includes/DB.class.php on line 5
+[30-Nov-2020 23:01:20 Asia/Jakarta] PHP Warning:  include(/var/www/html/e-media/_includes/lib_adodb/adodb.inc.php): failed to open stream: No such file or directory in /home/emea6153/public_html/_includes/DB.class.php on line 5
+[30-Nov-2020 23:01:20 Asia/Jakarta] PHP Warning:  include(): Failed opening '/var/www/html/e-media/_includes/lib_adodb/adodb.inc.php' for inclusion (include_path='.:/opt/alt/php55/usr/share/pear:/opt/alt/php55/usr/share/php') in /home/emea6153/public_html/_includes/DB.class.php on line 5
+[30-Nov-2020 23:01:20 Asia/Jakarta] PHP Fatal error:  Call to undefined function ADONewConnection() in /home/emea6153/public_html/_includes/DB.class.php on line 22
+[30-Nov-2020 23:01:20 Asia/Jakarta] PHP Warning:  include(/var/www/html/e-media/_includes/lib_adodb/adodb.inc.php): failed to open stream: No such file or directory in /home/emea6153/public_html/_includes/DB.class.php on line 5
+[30-Nov-2020 23:01:20 Asia/Jakarta] PHP Warning:  include(/var/www/html/e-media/_includes/lib_adodb/adodb.inc.php): failed to open stream: No such file or directory in /home/emea6153/public_html/_includes/DB.class.php on line 5
+[30-Nov-2020 23:01:20 Asia/Jakarta] PHP Warning:  include(): Failed opening '/var/www/html/e-media/_includes/lib_adodb/adodb.inc.php' for inclusion (include_path='.:/opt/alt/php55/usr/share/pear:/opt/alt/php55/usr/share/php') in /home/emea6153/public_html/_includes/DB.class.php on line 5
+[30-Nov-2020 23:01:20 Asia/Jakarta] PHP Fatal error:  Call to undefined function ADONewConnection() in /home/emea6153/public_html/_includes/DB.class.php on line 22
+[30-Nov-2020 23:01:20 Asia/Jakarta] PHP Warning:  include(/var/www/html/e-media/_includes/lib_adodb/adodb.inc.php): failed to open stream: No such file or directory in /home/emea6153/public_html/_includes/DB.class.php on line 5
+[30-Nov-2020 23:01:20 Asia/Jakarta] PHP Warning:  include(/var/www/html/e-media/_includes/lib_adodb/adodb.inc.php): failed to open stream: No such file or directory in /home/emea6153/public_html/_includes/DB.class.php on line 5
+[30-Nov-2020 23:01:20 Asia/Jakarta] PHP Warning:  include(): Failed opening '/var/www/html/e-media/_includes/lib_adodb/adodb.inc.php' for inclusion (include_path='.:/opt/alt/php55/usr/share/pear:/opt/alt/php55/usr/share/php') in /home/emea6153/public_html/_includes/DB.class.php on line 5
+[30-Nov-2020 23:01:20 Asia/Jakarta] PHP Fatal error:  Call to undefined function ADONewConnection() in /home/emea6153/public_html/_includes/DB.class.php on line 22
+[30-Nov-2020 23:01:21 Asia/Jakarta] PHP Warning:  include(/var/www/html/e-media/_includes/lib_adodb/adodb.inc.php): failed to open stream: No such file or directory in /home/emea6153/public_html/_includes/DB.class.php on line 5
+[30-Nov-2020 23:01:21 Asia/Jakarta] PHP Warning:  include(/var/www/html/e-media/_includes/lib_adodb/adodb.inc.php): failed to open stream: No such file or directory in /home/emea6153/public_html/_includes/DB.class.php on line 5
+[30-Nov-2020 23:01:21 Asia/Jakarta] PHP Warning:  include(): Failed opening '/var/www/html/e-media/_includes/lib_adodb/adodb.inc.php' for inclusion (include_path='.:/opt/alt/php55/usr/share/pear:/opt/alt/php55/usr/share/php') in /home/emea6153/public_html/_includes/DB.class.php on line 5
+[30-Nov-2020 23:01:21 Asia/Jakarta] PHP Fatal error:  Call to undefined function ADONewConnection() in /home/emea6153/public_html/_includes/DB.class.php on line 22
+[30-Nov-2020 23:01:21 Asia/Jakarta] PHP Warning:  include(/var/www/html/e-media/_includes/lib_adodb/adodb.inc.php): failed to open stream: No such file or directory in /home/emea6153/public_html/_includes/DB.class.php on line 5
+[30-Nov-2020 23:01:21 Asia/Jakarta] PHP Warning:  include(/var/www/html/e-media/_includes/lib_adodb/adodb.inc.php): failed to open stream: No such file or directory in /home/emea6153/public_html/_includes/DB.class.php on line 5
+[30-Nov-2020 23:01:21 Asia/Jakarta] PHP Warning:  include(): Failed opening '/var/www/html/e-media/_includes/lib_adodb/adodb.inc.php' for inclusion (include_path='.:/opt/alt/php55/usr/share/pear:/opt/alt/php55/usr/share/php') in /home/emea6153/public_html/_includes/DB.class.php on line 5
+[30-Nov-2020 23:01:21 Asia/Jakarta] PHP Fatal error:  Call to undefined function ADONewConnection() in /home/emea6153/public_html/_includes/DB.class.php on line 22
+[30-Nov-2020 23:01:21 Asia/Jakarta] PHP Warning:  include(/var/www/html/e-media/_includes/lib_adodb/adodb.inc.php): failed to open stream: No such file or directory in /home/emea6153/public_html/_includes/DB.class.php on line 5
+[30-Nov-2020 23:01:21 Asia/Jakarta] PHP Warning:  include(/var/www/html/e-media/_includes/lib_adodb/adodb.inc.php): failed to open stream: No such file or directory in /home/emea6153/public_html/_includes/DB.class.php on line 5
+[30-Nov-2020 23:01:21 Asia/Jakarta] PHP Warning:  include(): Failed opening '/var/www/html/e-media/_includes/lib_adodb/adodb.inc.php' for inclusion (include_path='.:/opt/alt/php55/usr/share/pear:/opt/alt/php55/usr/share/php') in /home/emea6153/public_html/_includes/DB.class.php on line 5
+[30-Nov-2020 23:01:21 Asia/Jakarta] PHP Fatal error:  Call to undefined function ADONewConnection() in /home/emea6153/public_html/_includes/DB.class.php on line 22
+[30-Nov-2020 23:01:21 Asia/Jakarta] PHP Warning:  include(/var/www/html/e-media/_includes/lib_adodb/adodb.inc.php): failed to open stream: No such file or directory in /home/emea6153/public_html/_includes/DB.class.php on line 5
+[30-Nov-2020 23:01:21 Asia/Jakarta] PHP Warning:  include(/var/www/html/e-media/_includes/lib_adodb/adodb.inc.php): failed to open stream: No such file or directory in /home/emea6153/public_html/_includes/DB.class.php on line 5
+[30-Nov-2020 23:01:21 Asia/Jakarta] PHP Warning:  include(): Failed opening '/var/www/html/e-media/_includes/lib_adodb/adodb.inc.php' for inclusion (include_path='.:/opt/alt/php55/usr/share/pear:/opt/alt/php55/usr/share/php') in /home/emea6153/public_html/_includes/DB.class.php on line 5
+[30-Nov-2020 23:01:21 Asia/Jakarta] PHP Fatal error:  Call to undefined function ADONewConnection() in /home/emea6153/public_html/_includes/DB.class.php on line 22
+[30-Nov-2020 23:05:50 Asia/Jakarta] PHP Warning:  include(/home/emea6153/public_html/e-media.tulangbawangbaratkab.go.id_includes/lib_adodb/adodb.inc.php): failed to open stream: No such file or directory in /home/emea6153/public_html/_includes/DB.class.php on line 5
+[30-Nov-2020 23:05:50 Asia/Jakarta] PHP Warning:  include(/home/emea6153/public_html/e-media.tulangbawangbaratkab.go.id_includes/lib_adodb/adodb.inc.php): failed to open stream: No such file or directory in /home/emea6153/public_html/_includes/DB.class.php on line 5
+[30-Nov-2020 23:05:50 Asia/Jakarta] PHP Warning:  include(): Failed opening '/home/emea6153/public_html/e-media.tulangbawangbaratkab.go.id_includes/lib_adodb/adodb.inc.php' for inclusion (include_path='.:/opt/alt/php55/usr/share/pear:/opt/alt/php55/usr/share/php') in /home/emea6153/public_html/_includes/DB.class.php on line 5
+[30-Nov-2020 23:05:50 Asia/Jakarta] PHP Fatal error:  Call to undefined function ADONewConnection() in /home/emea6153/public_html/_includes/DB.class.php on line 22
+[30-Nov-2020 23:06:41 Asia/Jakarta] PHP Warning:  include(/home/emea6153/public_html/e-media.tulangbawangbaratkab.go.id_includes/lib_adodb/adodb.inc.php): failed to open stream: No such file or directory in /home/emea6153/public_html/_includes/DB.class.php on line 5
+[30-Nov-2020 23:06:41 Asia/Jakarta] PHP Warning:  include(/home/emea6153/public_html/e-media.tulangbawangbaratkab.go.id_includes/lib_adodb/adodb.inc.php): failed to open stream: No such file or directory in /home/emea6153/public_html/_includes/DB.class.php on line 5
+[30-Nov-2020 23:06:41 Asia/Jakarta] PHP Warning:  include(): Failed opening '/home/emea6153/public_html/e-media.tulangbawangbaratkab.go.id_includes/lib_adodb/adodb.inc.php' for inclusion (include_path='.:/opt/alt/php55/usr/share/pear:/opt/alt/php55/usr/share/php') in /home/emea6153/public_html/_includes/DB.class.php on line 5
+[30-Nov-2020 23:06:41 Asia/Jakarta] PHP Fatal error:  Call to undefined function ADONewConnection() in /home/emea6153/public_html/_includes/DB.class.php on line 22
+[30-Nov-2020 23:06:49 Asia/Jakarta] PHP Warning:  include(/home/emea6153/public_html/e-media.tulangbawangbaratkab.go.id_includes/lib_adodb/adodb.inc.php): failed to open stream: No such file or directory in /home/emea6153/public_html/_includes/DB.class.php on line 5
+[30-Nov-2020 23:06:49 Asia/Jakarta] PHP Warning:  include(/home/emea6153/public_html/e-media.tulangbawangbaratkab.go.id_includes/lib_adodb/adodb.inc.php): failed to open stream: No such file or directory in /home/emea6153/public_html/_includes/DB.class.php on line 5
+[30-Nov-2020 23:06:49 Asia/Jakarta] PHP Warning:  include(): Failed opening '/home/emea6153/public_html/e-media.tulangbawangbaratkab.go.id_includes/lib_adodb/adodb.inc.php' for inclusion (include_path='.:/opt/alt/php55/usr/share/pear:/opt/alt/php55/usr/share/php') in /home/emea6153/public_html/_includes/DB.class.php on line 5
+[30-Nov-2020 23:06:49 Asia/Jakarta] PHP Fatal error:  Call to undefined function ADONewConnection() in /home/emea6153/public_html/_includes/DB.class.php on line 22
+[30-Nov-2020 23:06:54 Asia/Jakarta] PHP Warning:  include(/home/emea6153/public_html/e-media.tulangbawangbaratkab.go.id_includes/lib_adodb/adodb.inc.php): failed to open stream: No such file or directory in /home/emea6153/public_html/_includes/DB.class.php on line 5
+[30-Nov-2020 23:06:54 Asia/Jakarta] PHP Warning:  include(/home/emea6153/public_html/e-media.tulangbawangbaratkab.go.id_includes/lib_adodb/adodb.inc.php): failed to open stream: No such file or directory in /home/emea6153/public_html/_includes/DB.class.php on line 5
+[30-Nov-2020 23:06:54 Asia/Jakarta] PHP Warning:  include(): Failed opening '/home/emea6153/public_html/e-media.tulangbawangbaratkab.go.id_includes/lib_adodb/adodb.inc.php' for inclusion (include_path='.:/opt/alt/php55/usr/share/pear:/opt/alt/php55/usr/share/php') in /home/emea6153/public_html/_includes/DB.class.php on line 5
+[30-Nov-2020 23:06:54 Asia/Jakarta] PHP Fatal error:  Call to undefined function ADONewConnection() in /home/emea6153/public_html/_includes/DB.class.php on line 22
+[30-Nov-2020 23:06:57 Asia/Jakarta] PHP Warning:  include(/home/emea6153/public_html/e-media.tulangbawangbaratkab.go.id_includes/lib_adodb/adodb.inc.php): failed to open stream: No such file or directory in /home/emea6153/public_html/_includes/DB.class.php on line 5
+[30-Nov-2020 23:06:57 Asia/Jakarta] PHP Warning:  include(/home/emea6153/public_html/e-media.tulangbawangbaratkab.go.id_includes/lib_adodb/adodb.inc.php): failed to open stream: No such file or directory in /home/emea6153/public_html/_includes/DB.class.php on line 5
+[30-Nov-2020 23:06:57 Asia/Jakarta] PHP Warning:  include(): Failed opening '/home/emea6153/public_html/e-media.tulangbawangbaratkab.go.id_includes/lib_adodb/adodb.inc.php' for inclusion (include_path='.:/opt/alt/php55/usr/share/pear:/opt/alt/php55/usr/share/php') in /home/emea6153/public_html/_includes/DB.class.php on line 5
+[30-Nov-2020 23:06:57 Asia/Jakarta] PHP Fatal error:  Call to undefined function ADONewConnection() in /home/emea6153/public_html/_includes/DB.class.php on line 22
+[30-Nov-2020 23:07:00 Asia/Jakarta] PHP Warning:  include(/home/emea6153/public_html/e-media.tulangbawangbaratkab.go.id_includes/lib_adodb/adodb.inc.php): failed to open stream: No such file or directory in /home/emea6153/public_html/_includes/DB.class.php on line 5
+[30-Nov-2020 23:07:00 Asia/Jakarta] PHP Warning:  include(/home/emea6153/public_html/e-media.tulangbawangbaratkab.go.id_includes/lib_adodb/adodb.inc.php): failed to open stream: No such file or directory in /home/emea6153/public_html/_includes/DB.class.php on line 5
+[30-Nov-2020 23:07:00 Asia/Jakarta] PHP Warning:  include(): Failed opening '/home/emea6153/public_html/e-media.tulangbawangbaratkab.go.id_includes/lib_adodb/adodb.inc.php' for inclusion (include_path='.:/opt/alt/php55/usr/share/pear:/opt/alt/php55/usr/share/php') in /home/emea6153/public_html/_includes/DB.class.php on line 5
+[30-Nov-2020 23:07:00 Asia/Jakarta] PHP Fatal error:  Call to undefined function ADONewConnection() in /home/emea6153/public_html/_includes/DB.class.php on line 22
+[30-Nov-2020 23:07:04 Asia/Jakarta] PHP Warning:  include(/home/emea6153/public_html/e-media.tulangbawangbaratkab.go.id_includes/lib_adodb/adodb.inc.php): failed to open stream: No such file or directory in /home/emea6153/public_html/_includes/DB.class.php on line 5
+[30-Nov-2020 23:07:04 Asia/Jakarta] PHP Warning:  include(/home/emea6153/public_html/e-media.tulangbawangbaratkab.go.id_includes/lib_adodb/adodb.inc.php): failed to open stream: No such file or directory in /home/emea6153/public_html/_includes/DB.class.php on line 5
+[30-Nov-2020 23:07:04 Asia/Jakarta] PHP Warning:  include(): Failed opening '/home/emea6153/public_html/e-media.tulangbawangbaratkab.go.id_includes/lib_adodb/adodb.inc.php' for inclusion (include_path='.:/opt/alt/php55/usr/share/pear:/opt/alt/php55/usr/share/php') in /home/emea6153/public_html/_includes/DB.class.php on line 5
+[30-Nov-2020 23:07:04 Asia/Jakarta] PHP Fatal error:  Call to undefined function ADONewConnection() in /home/emea6153/public_html/_includes/DB.class.php on line 22
+[30-Nov-2020 23:11:53 Asia/Jakarta] PHP Warning:  include(/var/www/html/emea6153/public_html_includes/lib_adodb/adodb.inc.php): failed to open stream: No such file or directory in /home/emea6153/public_html/_includes/DB.class.php on line 5
+[30-Nov-2020 23:11:53 Asia/Jakarta] PHP Warning:  include(/var/www/html/emea6153/public_html_includes/lib_adodb/adodb.inc.php): failed to open stream: No such file or directory in /home/emea6153/public_html/_includes/DB.class.php on line 5
+[30-Nov-2020 23:11:53 Asia/Jakarta] PHP Warning:  include(): Failed opening '/var/www/html/emea6153/public_html_includes/lib_adodb/adodb.inc.php' for inclusion (include_path='.:/opt/alt/php55/usr/share/pear:/opt/alt/php55/usr/share/php') in /home/emea6153/public_html/_includes/DB.class.php on line 5
+[30-Nov-2020 23:11:53 Asia/Jakarta] PHP Fatal error:  Call to undefined function ADONewConnection() in /home/emea6153/public_html/_includes/DB.class.php on line 22
+[30-Nov-2020 23:15:57 Asia/Jakarta] PHP Warning:  include(/var/www/html/e-media_includes/lib_adodb/adodb.inc.php): failed to open stream: No such file or directory in /home/emea6153/public_html/e-media/_includes/DB.class.php on line 5
+[30-Nov-2020 23:15:57 Asia/Jakarta] PHP Warning:  include(/var/www/html/e-media_includes/lib_adodb/adodb.inc.php): failed to open stream: No such file or directory in /home/emea6153/public_html/e-media/_includes/DB.class.php on line 5
+[30-Nov-2020 23:15:57 Asia/Jakarta] PHP Warning:  include(): Failed opening '/var/www/html/e-media_includes/lib_adodb/adodb.inc.php' for inclusion (include_path='.:/opt/alt/php55/usr/share/pear:/opt/alt/php55/usr/share/php') in /home/emea6153/public_html/e-media/_includes/DB.class.php on line 5
+[30-Nov-2020 23:15:57 Asia/Jakarta] PHP Fatal error:  Call to undefined function ADONewConnection() in /home/emea6153/public_html/e-media/_includes/DB.class.php on line 22
+[30-Nov-2020 23:16:07 Asia/Jakarta] PHP Warning:  include(/var/www/html/e-media_includes/lib_adodb/adodb.inc.php): failed to open stream: No such file or directory in /home/emea6153/public_html/e-media/_includes/DB.class.php on line 5
+[30-Nov-2020 23:16:07 Asia/Jakarta] PHP Warning:  include(/var/www/html/e-media_includes/lib_adodb/adodb.inc.php): failed to open stream: No such file or directory in /home/emea6153/public_html/e-media/_includes/DB.class.php on line 5
+[30-Nov-2020 23:16:07 Asia/Jakarta] PHP Warning:  include(): Failed opening '/var/www/html/e-media_includes/lib_adodb/adodb.inc.php' for inclusion (include_path='.:/opt/alt/php55/usr/share/pear:/opt/alt/php55/usr/share/php') in /home/emea6153/public_html/e-media/_includes/DB.class.php on line 5
+[30-Nov-2020 23:16:07 Asia/Jakarta] PHP Fatal error:  Call to undefined function ADONewConnection() in /home/emea6153/public_html/e-media/_includes/DB.class.php on line 22
+[30-Nov-2020 23:16:09 Asia/Jakarta] PHP Warning:  include(/var/www/html/e-media_includes/lib_adodb/adodb.inc.php): failed to open stream: No such file or directory in /home/emea6153/public_html/e-media/_includes/DB.class.php on line 5
+[30-Nov-2020 23:16:09 Asia/Jakarta] PHP Warning:  include(/var/www/html/e-media_includes/lib_adodb/adodb.inc.php): failed to open stream: No such file or directory in /home/emea6153/public_html/e-media/_includes/DB.class.php on line 5
+[30-Nov-2020 23:16:09 Asia/Jakarta] PHP Warning:  include(): Failed opening '/var/www/html/e-media_includes/lib_adodb/adodb.inc.php' for inclusion (include_path='.:/opt/alt/php55/usr/share/pear:/opt/alt/php55/usr/share/php') in /home/emea6153/public_html/e-media/_includes/DB.class.php on line 5
+[30-Nov-2020 23:16:09 Asia/Jakarta] PHP Fatal error:  Call to undefined function ADONewConnection() in /home/emea6153/public_html/e-media/_includes/DB.class.php on line 22
+[30-Nov-2020 23:30:18 Asia/Jakarta] PHP Warning:  include(/var/www/html/e-media_includes/lib_adodb/adodb.inc.php): failed to open stream: No such file or directory in /home/emea6153/public_html/_includes/DB.class.php on line 5
+[30-Nov-2020 23:30:18 Asia/Jakarta] PHP Warning:  include(/var/www/html/e-media_includes/lib_adodb/adodb.inc.php): failed to open stream: No such file or directory in /home/emea6153/public_html/_includes/DB.class.php on line 5
+[30-Nov-2020 23:30:18 Asia/Jakarta] PHP Warning:  include(): Failed opening '/var/www/html/e-media_includes/lib_adodb/adodb.inc.php' for inclusion (include_path='.:/opt/alt/php55/usr/share/pear:/opt/alt/php55/usr/share/php') in /home/emea6153/public_html/_includes/DB.class.php on line 5
+[30-Nov-2020 23:30:18 Asia/Jakarta] PHP Fatal error:  Call to undefined function ADONewConnection() in /home/emea6153/public_html/_includes/DB.class.php on line 22
+[30-Nov-2020 23:31:22 Asia/Jakarta] PHP Warning:  include(/var/www/html/e-media_includes/lib_adodb/adodb.inc.php): failed to open stream: No such file or directory in /home/emea6153/public_html/_includes/DB.class.php on line 5
+[30-Nov-2020 23:31:22 Asia/Jakarta] PHP Warning:  include(/var/www/html/e-media_includes/lib_adodb/adodb.inc.php): failed to open stream: No such file or directory in /home/emea6153/public_html/_includes/DB.class.php on line 5
+[30-Nov-2020 23:31:22 Asia/Jakarta] PHP Warning:  include(): Failed opening '/var/www/html/e-media_includes/lib_adodb/adodb.inc.php' for inclusion (include_path='.:/opt/alt/php55/usr/share/pear:/opt/alt/php55/usr/share/php') in /home/emea6153/public_html/_includes/DB.class.php on line 5
+[30-Nov-2020 23:31:22 Asia/Jakarta] PHP Fatal error:  Call to undefined function ADONewConnection() in /home/emea6153/public_html/_includes/DB.class.php on line 22
+[30-Nov-2020 23:31:23 Asia/Jakarta] PHP Warning:  include(/var/www/html/e-media_includes/lib_adodb/adodb.inc.php): failed to open stream: No such file or directory in /home/emea6153/public_html/_includes/DB.class.php on line 5
+[30-Nov-2020 23:31:23 Asia/Jakarta] PHP Warning:  include(/var/www/html/e-media_includes/lib_adodb/adodb.inc.php): failed to open stream: No such file or directory in /home/emea6153/public_html/_includes/DB.class.php on line 5
+[30-Nov-2020 23:31:23 Asia/Jakarta] PHP Warning:  include(): Failed opening '/var/www/html/e-media_includes/lib_adodb/adodb.inc.php' for inclusion (include_path='.:/opt/alt/php55/usr/share/pear:/opt/alt/php55/usr/share/php') in /home/emea6153/public_html/_includes/DB.class.php on line 5
+[30-Nov-2020 23:31:23 Asia/Jakarta] PHP Fatal error:  Call to undefined function ADONewConnection() in /home/emea6153/public_html/_includes/DB.class.php on line 22
+[30-Nov-2020 23:31:24 Asia/Jakarta] PHP Warning:  include(/var/www/html/e-media_includes/lib_adodb/adodb.inc.php): failed to open stream: No such file or directory in /home/emea6153/public_html/_includes/DB.class.php on line 5
+[30-Nov-2020 23:31:24 Asia/Jakarta] PHP Warning:  include(/var/www/html/e-media_includes/lib_adodb/adodb.inc.php): failed to open stream: No such file or directory in /home/emea6153/public_html/_includes/DB.class.php on line 5
+[30-Nov-2020 23:31:24 Asia/Jakarta] PHP Warning:  include(): Failed opening '/var/www/html/e-media_includes/lib_adodb/adodb.inc.php' for inclusion (include_path='.:/opt/alt/php55/usr/share/pear:/opt/alt/php55/usr/share/php') in /home/emea6153/public_html/_includes/DB.class.php on line 5
+[30-Nov-2020 23:31:24 Asia/Jakarta] PHP Fatal error:  Call to undefined function ADONewConnection() in /home/emea6153/public_html/_includes/DB.class.php on line 22
+[30-Nov-2020 23:31:24 Asia/Jakarta] PHP Warning:  include(/var/www/html/e-media_includes/lib_adodb/adodb.inc.php): failed to open stream: No such file or directory in /home/emea6153/public_html/_includes/DB.class.php on line 5
+[30-Nov-2020 23:31:24 Asia/Jakarta] PHP Warning:  include(/var/www/html/e-media_includes/lib_adodb/adodb.inc.php): failed to open stream: No such file or directory in /home/emea6153/public_html/_includes/DB.class.php on line 5
+[30-Nov-2020 23:31:24 Asia/Jakarta] PHP Warning:  include(): Failed opening '/var/www/html/e-media_includes/lib_adodb/adodb.inc.php' for inclusion (include_path='.:/opt/alt/php55/usr/share/pear:/opt/alt/php55/usr/share/php') in /home/emea6153/public_html/_includes/DB.class.php on line 5
+[30-Nov-2020 23:31:24 Asia/Jakarta] PHP Fatal error:  Call to undefined function ADONewConnection() in /home/emea6153/public_html/_includes/DB.class.php on line 22
+[30-Nov-2020 23:31:24 Asia/Jakarta] PHP Warning:  include(/var/www/html/e-media_includes/lib_adodb/adodb.inc.php): failed to open stream: No such file or directory in /home/emea6153/public_html/_includes/DB.class.php on line 5
+[30-Nov-2020 23:31:24 Asia/Jakarta] PHP Warning:  include(/var/www/html/e-media_includes/lib_adodb/adodb.inc.php): failed to open stream: No such file or directory in /home/emea6153/public_html/_includes/DB.class.php on line 5
+[30-Nov-2020 23:31:24 Asia/Jakarta] PHP Warning:  include(): Failed opening '/var/www/html/e-media_includes/lib_adodb/adodb.inc.php' for inclusion (include_path='.:/opt/alt/php55/usr/share/pear:/opt/alt/php55/usr/share/php') in /home/emea6153/public_html/_includes/DB.class.php on line 5
+[30-Nov-2020 23:31:24 Asia/Jakarta] PHP Fatal error:  Call to undefined function ADONewConnection() in /home/emea6153/public_html/_includes/DB.class.php on line 22
+[30-Nov-2020 23:31:25 Asia/Jakarta] PHP Warning:  include(/var/www/html/e-media_includes/lib_adodb/adodb.inc.php): failed to open stream: No such file or directory in /home/emea6153/public_html/_includes/DB.class.php on line 5
+[30-Nov-2020 23:31:25 Asia/Jakarta] PHP Warning:  include(/var/www/html/e-media_includes/lib_adodb/adodb.inc.php): failed to open stream: No such file or directory in /home/emea6153/public_html/_includes/DB.class.php on line 5
+[30-Nov-2020 23:31:25 Asia/Jakarta] PHP Warning:  include(): Failed opening '/var/www/html/e-media_includes/lib_adodb/adodb.inc.php' for inclusion (include_path='.:/opt/alt/php55/usr/share/pear:/opt/alt/php55/usr/share/php') in /home/emea6153/public_html/_includes/DB.class.php on line 5
+[30-Nov-2020 23:31:25 Asia/Jakarta] PHP Fatal error:  Call to undefined function ADONewConnection() in /home/emea6153/public_html/_includes/DB.class.php on line 22
+[30-Nov-2020 23:31:25 Asia/Jakarta] PHP Warning:  include(/var/www/html/e-media_includes/lib_adodb/adodb.inc.php): failed to open stream: No such file or directory in /home/emea6153/public_html/_includes/DB.class.php on line 5
+[30-Nov-2020 23:31:25 Asia/Jakarta] PHP Warning:  include(/var/www/html/e-media_includes/lib_adodb/adodb.inc.php): failed to open stream: No such file or directory in /home/emea6153/public_html/_includes/DB.class.php on line 5
+[30-Nov-2020 23:31:25 Asia/Jakarta] PHP Warning:  include(): Failed opening '/var/www/html/e-media_includes/lib_adodb/adodb.inc.php' for inclusion (include_path='.:/opt/alt/php55/usr/share/pear:/opt/alt/php55/usr/share/php') in /home/emea6153/public_html/_includes/DB.class.php on line 5
+[30-Nov-2020 23:31:25 Asia/Jakarta] PHP Fatal error:  Call to undefined function ADONewConnection() in /home/emea6153/public_html/_includes/DB.class.php on line 22
+[30-Nov-2020 23:31:25 Asia/Jakarta] PHP Warning:  include(/var/www/html/e-media_includes/lib_adodb/adodb.inc.php): failed to open stream: No such file or directory in /home/emea6153/public_html/_includes/DB.class.php on line 5
+[30-Nov-2020 23:31:25 Asia/Jakarta] PHP Warning:  include(/var/www/html/e-media_includes/lib_adodb/adodb.inc.php): failed to open stream: No such file or directory in /home/emea6153/public_html/_includes/DB.class.php on line 5
+[30-Nov-2020 23:31:25 Asia/Jakarta] PHP Warning:  include(): Failed opening '/var/www/html/e-media_includes/lib_adodb/adodb.inc.php' for inclusion (include_path='.:/opt/alt/php55/usr/share/pear:/opt/alt/php55/usr/share/php') in /home/emea6153/public_html/_includes/DB.class.php on line 5
+[30-Nov-2020 23:31:25 Asia/Jakarta] PHP Fatal error:  Call to undefined function ADONewConnection() in /home/emea6153/public_html/_includes/DB.class.php on line 22
+[30-Nov-2020 23:31:25 Asia/Jakarta] PHP Warning:  include(/var/www/html/e-media_includes/lib_adodb/adodb.inc.php): failed to open stream: No such file or directory in /home/emea6153/public_html/_includes/DB.class.php on line 5
+[30-Nov-2020 23:31:25 Asia/Jakarta] PHP Warning:  include(/var/www/html/e-media_includes/lib_adodb/adodb.inc.php): failed to open stream: No such file or directory in /home/emea6153/public_html/_includes/DB.class.php on line 5
+[30-Nov-2020 23:31:25 Asia/Jakarta] PHP Warning:  include(): Failed opening '/var/www/html/e-media_includes/lib_adodb/adodb.inc.php' for inclusion (include_path='.:/opt/alt/php55/usr/share/pear:/opt/alt/php55/usr/share/php') in /home/emea6153/public_html/_includes/DB.class.php on line 5
+[30-Nov-2020 23:31:25 Asia/Jakarta] PHP Fatal error:  Call to undefined function ADONewConnection() in /home/emea6153/public_html/_includes/DB.class.php on line 22
+[30-Nov-2020 23:33:02 Asia/Jakarta] PHP Warning:  include(/var/www/html/e-media_includes/lib_adodb/adodb.inc.php): failed to open stream: No such file or directory in /home/emea6153/public_html/_includes/DB.class.php on line 5
+[30-Nov-2020 23:33:02 Asia/Jakarta] PHP Warning:  include(/var/www/html/e-media_includes/lib_adodb/adodb.inc.php): failed to open stream: No such file or directory in /home/emea6153/public_html/_includes/DB.class.php on line 5
+[30-Nov-2020 23:33:02 Asia/Jakarta] PHP Warning:  include(): Failed opening '/var/www/html/e-media_includes/lib_adodb/adodb.inc.php' for inclusion (include_path='.:/opt/alt/php55/usr/share/pear:/opt/alt/php55/usr/share/php') in /home/emea6153/public_html/_includes/DB.class.php on line 5
+[30-Nov-2020 23:33:02 Asia/Jakarta] PHP Fatal error:  Call to undefined function ADONewConnection() in /home/emea6153/public_html/_includes/DB.class.php on line 22
+[30-Nov-2020 23:33:03 Asia/Jakarta] PHP Warning:  include(/var/www/html/e-media_includes/lib_adodb/adodb.inc.php): failed to open stream: No such file or directory in /home/emea6153/public_html/_includes/DB.class.php on line 5
+[30-Nov-2020 23:33:03 Asia/Jakarta] PHP Warning:  include(/var/www/html/e-media_includes/lib_adodb/adodb.inc.php): failed to open stream: No such file or directory in /home/emea6153/public_html/_includes/DB.class.php on line 5
+[30-Nov-2020 23:33:03 Asia/Jakarta] PHP Warning:  include(): Failed opening '/var/www/html/e-media_includes/lib_adodb/adodb.inc.php' for inclusion (include_path='.:/opt/alt/php55/usr/share/pear:/opt/alt/php55/usr/share/php') in /home/emea6153/public_html/_includes/DB.class.php on line 5
+[30-Nov-2020 23:33:03 Asia/Jakarta] PHP Fatal error:  Call to undefined function ADONewConnection() in /home/emea6153/public_html/_includes/DB.class.php on line 22
+[30-Nov-2020 23:33:34 Asia/Jakarta] PHP Warning:  include(/var/www/html/e-media_includes/lib_adodb/adodb.inc.php): failed to open stream: No such file or directory in /home/emea6153/public_html/_includes/DB.class.php on line 5
+[30-Nov-2020 23:33:34 Asia/Jakarta] PHP Warning:  include(/var/www/html/e-media_includes/lib_adodb/adodb.inc.php): failed to open stream: No such file or directory in /home/emea6153/public_html/_includes/DB.class.php on line 5
+[30-Nov-2020 23:33:34 Asia/Jakarta] PHP Warning:  include(): Failed opening '/var/www/html/e-media_includes/lib_adodb/adodb.inc.php' for inclusion (include_path='.:/opt/alt/php55/usr/share/pear:/opt/alt/php55/usr/share/php') in /home/emea6153/public_html/_includes/DB.class.php on line 5
+[30-Nov-2020 23:33:34 Asia/Jakarta] PHP Fatal error:  Call to undefined function ADONewConnection() in /home/emea6153/public_html/_includes/DB.class.php on line 22
+[30-Nov-2020 23:33:35 Asia/Jakarta] PHP Warning:  include(/var/www/html/e-media_includes/lib_adodb/adodb.inc.php): failed to open stream: No such file or directory in /home/emea6153/public_html/_includes/DB.class.php on line 5
+[30-Nov-2020 23:33:35 Asia/Jakarta] PHP Warning:  include(/var/www/html/e-media_includes/lib_adodb/adodb.inc.php): failed to open stream: No such file or directory in /home/emea6153/public_html/_includes/DB.class.php on line 5
+[30-Nov-2020 23:33:35 Asia/Jakarta] PHP Warning:  include(): Failed opening '/var/www/html/e-media_includes/lib_adodb/adodb.inc.php' for inclusion (include_path='.:/opt/alt/php55/usr/share/pear:/opt/alt/php55/usr/share/php') in /home/emea6153/public_html/_includes/DB.class.php on line 5
+[30-Nov-2020 23:33:35 Asia/Jakarta] PHP Fatal error:  Call to undefined function ADONewConnection() in /home/emea6153/public_html/_includes/DB.class.php on line 22
+[30-Nov-2020 23:38:29 Asia/Jakarta] PHP Warning:  include(/var/www/public_html/e-media_includes/lib_adodb/adodb.inc.php): failed to open stream: No such file or directory in /home/emea6153/public_html/_includes/DB.class.php on line 5
+[30-Nov-2020 23:38:29 Asia/Jakarta] PHP Warning:  include(/var/www/public_html/e-media_includes/lib_adodb/adodb.inc.php): failed to open stream: No such file or directory in /home/emea6153/public_html/_includes/DB.class.php on line 5
+[30-Nov-2020 23:38:29 Asia/Jakarta] PHP Warning:  include(): Failed opening '/var/www/public_html/e-media_includes/lib_adodb/adodb.inc.php' for inclusion (include_path='.:/opt/alt/php55/usr/share/pear:/opt/alt/php55/usr/share/php') in /home/emea6153/public_html/_includes/DB.class.php on line 5
+[30-Nov-2020 23:38:29 Asia/Jakarta] PHP Fatal error:  Call to undefined function ADONewConnection() in /home/emea6153/public_html/_includes/DB.class.php on line 22
+[30-Nov-2020 23:38:30 Asia/Jakarta] PHP Warning:  include(/var/www/public_html/e-media_includes/lib_adodb/adodb.inc.php): failed to open stream: No such file or directory in /home/emea6153/public_html/_includes/DB.class.php on line 5
+[30-Nov-2020 23:38:30 Asia/Jakarta] PHP Warning:  include(/var/www/public_html/e-media_includes/lib_adodb/adodb.inc.php): failed to open stream: No such file or directory in /home/emea6153/public_html/_includes/DB.class.php on line 5
+[30-Nov-2020 23:38:30 Asia/Jakarta] PHP Warning:  include(): Failed opening '/var/www/public_html/e-media_includes/lib_adodb/adodb.inc.php' for inclusion (include_path='.:/opt/alt/php55/usr/share/pear:/opt/alt/php55/usr/share/php') in /home/emea6153/public_html/_includes/DB.class.php on line 5
+[30-Nov-2020 23:38:30 Asia/Jakarta] PHP Fatal error:  Call to undefined function ADONewConnection() in /home/emea6153/public_html/_includes/DB.class.php on line 22
+[30-Nov-2020 23:39:44 Asia/Jakarta] PHP Warning:  include(/var/www/public_html/e-media_includes/lib_adodb/adodb.inc.php): failed to open stream: No such file or directory in /home/emea6153/public_html/_includes/DB.class.php on line 5
+[30-Nov-2020 23:39:44 Asia/Jakarta] PHP Warning:  include(/var/www/public_html/e-media_includes/lib_adodb/adodb.inc.php): failed to open stream: No such file or directory in /home/emea6153/public_html/_includes/DB.class.php on line 5
+[30-Nov-2020 23:39:44 Asia/Jakarta] PHP Warning:  include(): Failed opening '/var/www/public_html/e-media_includes/lib_adodb/adodb.inc.php' for inclusion (include_path='.:/opt/alt/php55/usr/share/pear:/opt/alt/php55/usr/share/php') in /home/emea6153/public_html/_includes/DB.class.php on line 5
+[30-Nov-2020 23:39:44 Asia/Jakarta] PHP Fatal error:  Call to undefined function ADONewConnection() in /home/emea6153/public_html/_includes/DB.class.php on line 22
+[30-Nov-2020 23:39:57 Asia/Jakarta] PHP Warning:  include(/var/www/public_html/e-media_includes/lib_adodb/adodb.inc.php): failed to open stream: No such file or directory in /home/emea6153/public_html/_includes/DB.class.php on line 5
+[30-Nov-2020 23:39:57 Asia/Jakarta] PHP Warning:  include(/var/www/public_html/e-media_includes/lib_adodb/adodb.inc.php): failed to open stream: No such file or directory in /home/emea6153/public_html/_includes/DB.class.php on line 5
+[30-Nov-2020 23:39:57 Asia/Jakarta] PHP Warning:  include(): Failed opening '/var/www/public_html/e-media_includes/lib_adodb/adodb.inc.php' for inclusion (include_path='.:/opt/alt/php55/usr/share/pear:/opt/alt/php55/usr/share/php') in /home/emea6153/public_html/_includes/DB.class.php on line 5
+[30-Nov-2020 23:39:57 Asia/Jakarta] PHP Fatal error:  Call to undefined function ADONewConnection() in /home/emea6153/public_html/_includes/DB.class.php on line 22
+[30-Nov-2020 23:40:56 Asia/Jakarta] PHP Warning:  include(/var/www/public_html/e-media_includes/lib_adodb/adodb.inc.php): failed to open stream: No such file or directory in /home/emea6153/public_html/_includes/DB.class.php on line 5
+[30-Nov-2020 23:40:56 Asia/Jakarta] PHP Warning:  include(/var/www/public_html/e-media_includes/lib_adodb/adodb.inc.php): failed to open stream: No such file or directory in /home/emea6153/public_html/_includes/DB.class.php on line 5
+[30-Nov-2020 23:40:56 Asia/Jakarta] PHP Warning:  include(): Failed opening '/var/www/public_html/e-media_includes/lib_adodb/adodb.inc.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/emea6153/public_html/_includes/DB.class.php on line 5
+[30-Nov-2020 23:40:56 Asia/Jakarta] PHP Fatal error:  Call to undefined function ADONewConnection() in /home/emea6153/public_html/_includes/DB.class.php on line 22
+[30-Nov-2020 23:40:59 Asia/Jakarta] PHP Warning:  include(/var/www/public_html/e-media_includes/lib_adodb/adodb.inc.php): failed to open stream: No such file or directory in /home/emea6153/public_html/_includes/DB.class.php on line 5
+[30-Nov-2020 23:40:59 Asia/Jakarta] PHP Warning:  include(/var/www/public_html/e-media_includes/lib_adodb/adodb.inc.php): failed to open stream: No such file or directory in /home/emea6153/public_html/_includes/DB.class.php on line 5
+[30-Nov-2020 23:40:59 Asia/Jakarta] PHP Warning:  include(): Failed opening '/var/www/public_html/e-media_includes/lib_adodb/adodb.inc.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/emea6153/public_html/_includes/DB.class.php on line 5
+[30-Nov-2020 23:40:59 Asia/Jakarta] PHP Fatal error:  Call to undefined function ADONewConnection() in /home/emea6153/public_html/_includes/DB.class.php on line 22
+[30-Nov-2020 23:41:29 Asia/Jakarta] PHP Warning:  include(/var/www/public_html/e-media_includes/lib_adodb/adodb.inc.php): failed to open stream: No such file or directory in /home/emea6153/public_html/_includes/DB.class.php on line 5
+[30-Nov-2020 23:41:29 Asia/Jakarta] PHP Warning:  include(/var/www/public_html/e-media_includes/lib_adodb/adodb.inc.php): failed to open stream: No such file or directory in /home/emea6153/public_html/_includes/DB.class.php on line 5
+[30-Nov-2020 23:41:29 Asia/Jakarta] PHP Warning:  include(): Failed opening '/var/www/public_html/e-media_includes/lib_adodb/adodb.inc.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/emea6153/public_html/_includes/DB.class.php on line 5
+[30-Nov-2020 23:41:29 Asia/Jakarta] PHP Fatal error:  Call to undefined function ADONewConnection() in /home/emea6153/public_html/_includes/DB.class.php on line 22
+[30-Nov-2020 23:46:03 Asia/Jakarta] PHP Warning:  include(/var/www/public_html/e-media_includes/lib_adodb/adodb.inc.php): failed to open stream: No such file or directory in /home/emea6153/public_html/_includes/DB.class.php on line 5
+[30-Nov-2020 23:46:03 Asia/Jakarta] PHP Warning:  include(/var/www/public_html/e-media_includes/lib_adodb/adodb.inc.php): failed to open stream: No such file or directory in /home/emea6153/public_html/_includes/DB.class.php on line 5
+[30-Nov-2020 23:46:03 Asia/Jakarta] PHP Warning:  include(): Failed opening '/var/www/public_html/e-media_includes/lib_adodb/adodb.inc.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/emea6153/public_html/_includes/DB.class.php on line 5
+[30-Nov-2020 23:46:03 Asia/Jakarta] PHP Fatal error:  Call to undefined function ADONewConnection() in /home/emea6153/public_html/_includes/DB.class.php on line 22
+[30-Nov-2020 23:46:06 Asia/Jakarta] PHP Warning:  include(/var/www/public_html/e-media_includes/lib_adodb/adodb.inc.php): failed to open stream: No such file or directory in /home/emea6153/public_html/_includes/DB.class.php on line 5
+[30-Nov-2020 23:46:06 Asia/Jakarta] PHP Warning:  include(/var/www/public_html/e-media_includes/lib_adodb/adodb.inc.php): failed to open stream: No such file or directory in /home/emea6153/public_html/_includes/DB.class.php on line 5
+[30-Nov-2020 23:46:06 Asia/Jakarta] PHP Warning:  include(): Failed opening '/var/www/public_html/e-media_includes/lib_adodb/adodb.inc.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/emea6153/public_html/_includes/DB.class.php on line 5
+[30-Nov-2020 23:46:06 Asia/Jakarta] PHP Fatal error:  Call to undefined function ADONewConnection() in /home/emea6153/public_html/_includes/DB.class.php on line 22
+[01-Dec-2020 00:39:19 Asia/Jakarta] PHP Warning:  include(/var/www/public_html/e-media_includes/lib_adodb/adodb.inc.php): failed to open stream: No such file or directory in /home/emea6153/public_html/_includes/DB.class.php on line 5
+[01-Dec-2020 00:39:19 Asia/Jakarta] PHP Warning:  include(/var/www/public_html/e-media_includes/lib_adodb/adodb.inc.php): failed to open stream: No such file or directory in /home/emea6153/public_html/_includes/DB.class.php on line 5
+[01-Dec-2020 00:39:19 Asia/Jakarta] PHP Warning:  include(): Failed opening '/var/www/public_html/e-media_includes/lib_adodb/adodb.inc.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/emea6153/public_html/_includes/DB.class.php on line 5
+[01-Dec-2020 00:39:19 Asia/Jakarta] PHP Fatal error:  Call to undefined function ADONewConnection() in /home/emea6153/public_html/_includes/DB.class.php on line 22
+[01-Dec-2020 00:41:55 Asia/Jakarta] PHP Warning:  include(/var/www/html/e-media/_includes/lib_adodb/adodb.inc.php): failed to open stream: No such file or directory in /home/emea6153/public_html/_includes/DB.class.php on line 5
+[01-Dec-2020 00:41:55 Asia/Jakarta] PHP Warning:  include(/var/www/html/e-media/_includes/lib_adodb/adodb.inc.php): failed to open stream: No such file or directory in /home/emea6153/public_html/_includes/DB.class.php on line 5
+[01-Dec-2020 00:41:55 Asia/Jakarta] PHP Warning:  include(): Failed opening '/var/www/html/e-media/_includes/lib_adodb/adodb.inc.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/emea6153/public_html/_includes/DB.class.php on line 5
+[01-Dec-2020 00:41:55 Asia/Jakarta] PHP Fatal error:  Call to undefined function ADONewConnection() in /home/emea6153/public_html/_includes/DB.class.php on line 22
+[01-Dec-2020 00:43:17 Asia/Jakarta] PHP Warning:  include(/var/www/html/e-media/_includes/lib_adodb/adodb.inc.php): failed to open stream: No such file or directory in /home/emea6153/public_html/_includes/DB.class.php on line 5
+[01-Dec-2020 00:43:17 Asia/Jakarta] PHP Warning:  include(/var/www/html/e-media/_includes/lib_adodb/adodb.inc.php): failed to open stream: No such file or directory in /home/emea6153/public_html/_includes/DB.class.php on line 5
+[01-Dec-2020 00:43:17 Asia/Jakarta] PHP Warning:  include(): Failed opening '/var/www/html/e-media/_includes/lib_adodb/adodb.inc.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/emea6153/public_html/_includes/DB.class.php on line 5
+[01-Dec-2020 00:43:17 Asia/Jakarta] PHP Fatal error:  Call to undefined function ADONewConnection() in /home/emea6153/public_html/_includes/DB.class.php on line 22
+[01-Dec-2020 00:45:03 Asia/Jakarta] PHP Warning:  include(/var/www/html/home/emea6153/public_html/_includes/lib_adodb/adodb.inc.php): failed to open stream: No such file or directory in /home/emea6153/public_html/_includes/DB.class.php on line 5
+[01-Dec-2020 00:45:03 Asia/Jakarta] PHP Warning:  include(/var/www/html/home/emea6153/public_html/_includes/lib_adodb/adodb.inc.php): failed to open stream: No such file or directory in /home/emea6153/public_html/_includes/DB.class.php on line 5
+[01-Dec-2020 00:45:03 Asia/Jakarta] PHP Warning:  include(): Failed opening '/var/www/html/home/emea6153/public_html/_includes/lib_adodb/adodb.inc.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/emea6153/public_html/_includes/DB.class.php on line 5
+[01-Dec-2020 00:45:03 Asia/Jakarta] PHP Fatal error:  Call to undefined function ADONewConnection() in /home/emea6153/public_html/_includes/DB.class.php on line 22
